@@ -1,0 +1,114 @@
+{
+  "KA8_flat": {
+    "metrics": {
+      "lower_quartile": 55000,
+      "upper_quartile": 85000,
+      "avg_price": 64166.666666666664
+    },
+    "data_points": 6
+  },
+  "KA8_house": {
+    "metrics": {
+      "lower_quartile": 235000,
+      "upper_quartile": 650000,
+      "avg_price": 442500
+    },
+    "data_points": 2
+  },
+  "KA9_flat": {
+    "metrics": {
+      "lower_quartile": 74000,
+      "upper_quartile": 240000,
+      "avg_price": 118250
+    },
+    "data_points": 4
+  },
+  "KA10_flat": {
+    "metrics": {
+      "lower_quartile": 92000,
+      "upper_quartile": 170000,
+      "avg_price": 129000
+    },
+    "data_points": 4
+  },
+  "KA26_flat": {
+    "metrics": {
+      "lower_quartile": 27000,
+      "upper_quartile": 255000,
+      "avg_price": 112333.33333333333
+    },
+    "data_points": 3
+  },
+  "KA19_flat": {
+    "metrics": {
+      "lower_quartile": 29750,
+      "upper_quartile": 37000,
+      "avg_price": 34409.09090909091
+    },
+    "data_points": 11
+  },
+  "KA1_flat": {
+    "metrics": {
+      "lower_quartile": 50000,
+      "upper_quartile": 95000,
+      "avg_price": 68249.875
+    },
+    "data_points": 8
+  },
+  "KA18_flat": {
+    "metrics": {
+      "lower_quartile": 39000,
+      "upper_quartile": 90000,
+      "avg_price": 60666.666666666664
+    },
+    "data_points": 3
+  },
+  "KA12_flat": {
+    "metrics": {
+      "lower_quartile": 65000,
+      "upper_quartile": 72000,
+      "avg_price": 80400
+    },
+    "data_points": 5
+  },
+  "KA13_flat": {
+    "metrics": {
+      "lower_quartile": 62000,
+      "upper_quartile": 75000,
+      "avg_price": 67000
+    },
+    "data_points": 3
+  },
+  "KA13_house": {
+    "metrics": {
+      "lower_quartile": 299000,
+      "upper_quartile": 299995,
+      "avg_price": 299497.5
+    },
+    "data_points": 2
+  },
+  "KA22_flat": {
+    "metrics": {
+      "lower_quartile": 69000,
+      "upper_quartile": 148000,
+      "avg_price": 113722.11111111111
+    },
+    "data_points": 9
+  },
+  "KA21_flat": {
+    "metrics": {
+      "lower_quartile": 32000,
+      "upper_quartile": 60000,
+      "avg_price": 45480.769230769234
+    },
+    "data_points": 13
+  },
+  "KA30_flat": {
+    "metrics": {
+      "lower_quartile": 85000,
+      "upper_quartile": 195000,
+      "avg_price": 140707.83333333334
+    },
+    "data_points": 12
+  }
+}

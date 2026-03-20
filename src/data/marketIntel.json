@@ -1,0 +1,1276 @@
+{
+  "Alloway": {
+    "1-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Alloway."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Alloway."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Alloway."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Alloway."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Alloway."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Alloway."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "3-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Alloway."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Alloway."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    }
+  },
+  "Ayr": {
+    "1-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Ayr."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Ayr."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Ayr."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Ayr."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Ayr."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Ayr."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "3-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Ayr."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Ayr."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    }
+  },
+  "Prestwick": {
+    "1-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Prestwick."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Prestwick."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Prestwick."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Prestwick."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Prestwick."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Prestwick."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "3-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Prestwick."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Prestwick."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    }
+  },
+  "Troon": {
+    "1-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Troon."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Troon."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Troon."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Troon."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Troon."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Troon."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "3-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Troon."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Troon."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    }
+  },
+  "Girvan": {
+    "1-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Girvan."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Girvan."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Girvan."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Girvan."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Girvan."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Girvan."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "3-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Girvan."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Girvan."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    }
+  },
+  "Maybole": {
+    "1-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Maybole."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Maybole."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Maybole."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Maybole."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Maybole."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Maybole."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "3-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Maybole."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Maybole."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    }
+  },
+  "Kilmarnock": {
+    "1-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Kilmarnock."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Kilmarnock."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Kilmarnock."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Kilmarnock."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Kilmarnock."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Kilmarnock."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "3-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Kilmarnock."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Kilmarnock."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    }
+  },
+  "Cumnock": {
+    "1-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Cumnock."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Cumnock."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Cumnock."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Cumnock."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Cumnock."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Cumnock."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "3-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Cumnock."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Cumnock."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    }
+  },
+  "Irvine": {
+    "1-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Irvine."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Irvine."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Irvine."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Irvine."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Irvine."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Irvine."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "3-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Irvine."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Irvine."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    }
+  },
+  "Kilwinning": {
+    "1-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Kilwinning."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Kilwinning."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Kilwinning."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Kilwinning."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Kilwinning."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Kilwinning."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "3-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Kilwinning."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Kilwinning."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    }
+  },
+  "Ardrossan": {
+    "1-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Ardrossan."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Ardrossan."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Ardrossan."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Ardrossan."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Ardrossan."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Ardrossan."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "3-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Ardrossan."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Ardrossan."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    }
+  },
+  "Saltcoats": {
+    "1-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Saltcoats."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Saltcoats."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Saltcoats."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Saltcoats."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Saltcoats."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Saltcoats."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "3-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Saltcoats."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Saltcoats."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    }
+  },
+  "Largs": {
+    "1-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Largs."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Largs."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed flat": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Largs."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Largs."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "2-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Largs."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Largs."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    },
+    "3-bed house": {
+      "strategy_primary": "BRRR",
+      "deal_rule": "Buy under £35k if rent exceeds £600",
+      "why_this_works": [
+        "High yield (6.0–20.6%) enables refinance to recycle capital. Strong rental demand in Largs."
+      ],
+      "confidence": "Medium",
+      "buy_min": 35000,
+      "buy_max": 80000,
+      "rent_min": 400,
+      "rent_max": 600,
+      "yield_min": 6,
+      "yield_max": 20.57142857142857,
+      "micro_locations": [
+        {
+          "area": "Central",
+          "description": "Default focus zone due to lack of granular scraping volume in Largs."
+        }
+      ],
+      "risks": [
+        "Excessive yield implies higher localized socio-economic tenant turnover.",
+        "Weak rental velocity data. Confidence restricted."
+      ]
+    }
+  }
+}

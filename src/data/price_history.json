@@ -1,0 +1,733 @@
+[
+  {
+    "date": "2026-03-19",
+    "towns": {
+      "Ayr": {
+        "avgSale": 159280,
+        "avgRent": 1018,
+        "salesCount": 25,
+        "rentalsCount": 21,
+        "lowerQuartile": 55000,
+        "upperQuartile": 85000
+      },
+      "Prestwick": {
+        "avgSale": null,
+        "avgRent": null,
+        "salesCount": 0,
+        "rentalsCount": 0,
+        "lowerQuartile": null,
+        "upperQuartile": null
+      },
+      "Troon": {
+        "avgSale": null,
+        "avgRent": null,
+        "salesCount": 0,
+        "rentalsCount": 0,
+        "lowerQuartile": null,
+        "upperQuartile": null
+      },
+      "Girvan": {
+        "avgSale": null,
+        "avgRent": null,
+        "salesCount": 0,
+        "rentalsCount": 0,
+        "lowerQuartile": null,
+        "upperQuartile": null
+      },
+      "Maybole": {
+        "avgSale": null,
+        "avgRent": null,
+        "salesCount": 0,
+        "rentalsCount": 0,
+        "lowerQuartile": null,
+        "upperQuartile": null
+      },
+      "Kilmarnock": {
+        "avgSale": 170999,
+        "avgRent": 629,
+        "salesCount": 25,
+        "rentalsCount": 13,
+        "lowerQuartile": 50000,
+        "upperQuartile": 95000
+      },
+      "Cumnock": {
+        "avgSale": null,
+        "avgRent": null,
+        "salesCount": 0,
+        "rentalsCount": 0,
+        "lowerQuartile": null,
+        "upperQuartile": null
+      },
+      "Irvine": {
+        "avgSale": 134520,
+        "avgRent": 598,
+        "salesCount": 25,
+        "rentalsCount": 8,
+        "lowerQuartile": 65000,
+        "upperQuartile": 72000
+      },
+      "Kilwinning": {
+        "avgSale": null,
+        "avgRent": null,
+        "salesCount": 0,
+        "rentalsCount": 0,
+        "lowerQuartile": null,
+        "upperQuartile": null
+      },
+      "Ardrossan": {
+        "avgSale": null,
+        "avgRent": null,
+        "salesCount": 0,
+        "rentalsCount": 0,
+        "lowerQuartile": null,
+        "upperQuartile": null
+      },
+      "Saltcoats": {
+        "avgSale": null,
+        "avgRent": null,
+        "salesCount": 0,
+        "rentalsCount": 0,
+        "lowerQuartile": null,
+        "upperQuartile": null
+      },
+      "Largs": {
+        "avgSale": null,
+        "avgRent": null,
+        "salesCount": 0,
+        "rentalsCount": 0,
+        "lowerQuartile": null,
+        "upperQuartile": null
+      }
+    }
+  },
+  {
+    "date": "2026-03-19",
+    "towns": {
+      "Ayr": {
+        "avgSale": 159780,
+        "avgRent": 1018,
+        "salesCount": 25,
+        "rentalsCount": 21,
+        "lowerQuartile": 55000,
+        "upperQuartile": 85000
+      },
+      "Prestwick": {
+        "avgSale": 178238,
+        "avgRent": 1749,
+        "salesCount": 21,
+        "rentalsCount": 5,
+        "lowerQuartile": 74000,
+        "upperQuartile": 100000
+      },
+      "Troon": {
+        "avgSale": 238720,
+        "avgRent": 1700,
+        "salesCount": 25,
+        "rentalsCount": 6,
+        "lowerQuartile": 92000,
+        "upperQuartile": 170000
+      },
+      "Girvan": {
+        "avgSale": 170987,
+        "avgRent": 670,
+        "salesCount": 24,
+        "rentalsCount": 5,
+        "lowerQuartile": 27000,
+        "upperQuartile": 255000
+      },
+      "Maybole": {
+        "avgSale": 150061,
+        "avgRent": 700,
+        "salesCount": 24,
+        "rentalsCount": 1,
+        "lowerQuartile": 29750,
+        "upperQuartile": 37000
+      },
+      "Kilmarnock": {
+        "avgSale": 176799,
+        "avgRent": 629,
+        "salesCount": 25,
+        "rentalsCount": 13,
+        "lowerQuartile": 50000,
+        "upperQuartile": 95000
+      },
+      "Cumnock": {
+        "avgSale": 148319,
+        "avgRent": 569,
+        "salesCount": 25,
+        "rentalsCount": 5,
+        "lowerQuartile": 39000,
+        "upperQuartile": 90000
+      },
+      "Irvine": {
+        "avgSale": 128720,
+        "avgRent": 598,
+        "salesCount": 25,
+        "rentalsCount": 8,
+        "lowerQuartile": 65000,
+        "upperQuartile": 72000
+      },
+      "Kilwinning": {
+        "avgSale": 184638,
+        "avgRent": 725,
+        "salesCount": 25,
+        "rentalsCount": 3,
+        "lowerQuartile": 62000,
+        "upperQuartile": 75000
+      },
+      "Ardrossan": {
+        "avgSale": 124350,
+        "avgRent": 678,
+        "salesCount": 20,
+        "rentalsCount": 4,
+        "lowerQuartile": 69000,
+        "upperQuartile": 148000
+      },
+      "Saltcoats": {
+        "avgSale": 104570,
+        "avgRent": 623,
+        "salesCount": 25,
+        "rentalsCount": 3,
+        "lowerQuartile": 32000,
+        "upperQuartile": 60000
+      },
+      "Largs": {
+        "avgSale": 209420,
+        "avgRent": 519,
+        "salesCount": 25,
+        "rentalsCount": 8,
+        "lowerQuartile": 85000,
+        "upperQuartile": 195000
+      }
+    }
+  },
+  {
+    "date": "2026-03-19",
+    "towns": {
+      "Ayr": {
+        "avgSale": 159780,
+        "avgRent": 1018,
+        "salesCount": 25,
+        "rentalsCount": 21,
+        "lowerQuartile": 55000,
+        "upperQuartile": 85000
+      },
+      "Prestwick": {
+        "avgSale": 178238,
+        "avgRent": 1749,
+        "salesCount": 21,
+        "rentalsCount": 5,
+        "lowerQuartile": 74000,
+        "upperQuartile": 100000
+      },
+      "Troon": {
+        "avgSale": 238720,
+        "avgRent": 1700,
+        "salesCount": 25,
+        "rentalsCount": 6,
+        "lowerQuartile": 92000,
+        "upperQuartile": 170000
+      },
+      "Girvan": {
+        "avgSale": 170987,
+        "avgRent": 670,
+        "salesCount": 24,
+        "rentalsCount": 5,
+        "lowerQuartile": 27000,
+        "upperQuartile": 255000
+      },
+      "Maybole": {
+        "avgSale": 150061,
+        "avgRent": 700,
+        "salesCount": 24,
+        "rentalsCount": 1,
+        "lowerQuartile": 29750,
+        "upperQuartile": 37000
+      },
+      "Kilmarnock": {
+        "avgSale": 176799,
+        "avgRent": 629,
+        "salesCount": 25,
+        "rentalsCount": 13,
+        "lowerQuartile": 50000,
+        "upperQuartile": 95000
+      },
+      "Cumnock": {
+        "avgSale": 148319,
+        "avgRent": 569,
+        "salesCount": 25,
+        "rentalsCount": 5,
+        "lowerQuartile": 39000,
+        "upperQuartile": 90000
+      },
+      "Irvine": {
+        "avgSale": 128720,
+        "avgRent": 598,
+        "salesCount": 25,
+        "rentalsCount": 8,
+        "lowerQuartile": 65000,
+        "upperQuartile": 72000
+      },
+      "Kilwinning": {
+        "avgSale": 184638,
+        "avgRent": 725,
+        "salesCount": 25,
+        "rentalsCount": 3,
+        "lowerQuartile": 62000,
+        "upperQuartile": 75000
+      },
+      "Ardrossan": {
+        "avgSale": 124350,
+        "avgRent": 678,
+        "salesCount": 20,
+        "rentalsCount": 4,
+        "lowerQuartile": 69000,
+        "upperQuartile": 148000
+      },
+      "Saltcoats": {
+        "avgSale": 104570,
+        "avgRent": 623,
+        "salesCount": 25,
+        "rentalsCount": 3,
+        "lowerQuartile": 32000,
+        "upperQuartile": 60000
+      },
+      "Largs": {
+        "avgSale": 209420,
+        "avgRent": 519,
+        "salesCount": 25,
+        "rentalsCount": 8,
+        "lowerQuartile": 85000,
+        "upperQuartile": 195000
+      }
+    }
+  },
+  {
+    "date": "2026-03-19",
+    "towns": {
+      "Ayr": {
+        "avgSale": 159780,
+        "avgRent": 1018,
+        "salesCount": 25,
+        "rentalsCount": 21,
+        "lowerQuartile": 55000,
+        "upperQuartile": 85000
+      },
+      "Prestwick": {
+        "avgSale": 178238,
+        "avgRent": 1749,
+        "salesCount": 21,
+        "rentalsCount": 5,
+        "lowerQuartile": 74000,
+        "upperQuartile": 100000
+      },
+      "Troon": {
+        "avgSale": 238720,
+        "avgRent": 1700,
+        "salesCount": 25,
+        "rentalsCount": 6,
+        "lowerQuartile": 92000,
+        "upperQuartile": 170000
+      },
+      "Girvan": {
+        "avgSale": 162441,
+        "avgRent": 856,
+        "salesCount": 48,
+        "rentalsCount": 7,
+        "lowerQuartile": 27000,
+        "upperQuartile": 255000
+      },
+      "Maybole": {
+        "avgSale": 148168,
+        "avgRent": 1197,
+        "salesCount": 49,
+        "rentalsCount": 3,
+        "lowerQuartile": 29750,
+        "upperQuartile": 37000
+      },
+      "Kilmarnock": {
+        "avgSale": 185812,
+        "avgRent": 1046,
+        "salesCount": 48,
+        "rentalsCount": 22,
+        "lowerQuartile": 50000,
+        "upperQuartile": 95000
+      },
+      "Cumnock": {
+        "avgSale": 144314,
+        "avgRent": 791,
+        "salesCount": 35,
+        "rentalsCount": 7,
+        "lowerQuartile": 39000,
+        "upperQuartile": 90000
+      },
+      "Irvine": {
+        "avgSale": 124235,
+        "avgRent": 1052,
+        "salesCount": 34,
+        "rentalsCount": 13,
+        "lowerQuartile": 65000,
+        "upperQuartile": 72000
+      },
+      "Kilwinning": {
+        "avgSale": 178579,
+        "avgRent": 1136,
+        "salesCount": 31,
+        "rentalsCount": 6,
+        "lowerQuartile": 62000,
+        "upperQuartile": 75000
+      },
+      "Ardrossan": {
+        "avgSale": 116581,
+        "avgRent": 1103,
+        "salesCount": 37,
+        "rentalsCount": 8,
+        "lowerQuartile": 69000,
+        "upperQuartile": 148000
+      },
+      "Saltcoats": {
+        "avgSale": 104570,
+        "avgRent": 623,
+        "salesCount": 25,
+        "rentalsCount": 3,
+        "lowerQuartile": 32000,
+        "upperQuartile": 60000
+      },
+      "Largs": {
+        "avgSale": 211250,
+        "avgRent": 1095,
+        "salesCount": 46,
+        "rentalsCount": 16,
+        "lowerQuartile": 85000,
+        "upperQuartile": 195000
+      }
+    }
+  },
+  {
+    "date": "2026-03-20",
+    "towns": {
+      "Alloway": {
+        "avgSale": 314841,
+        "avgRent": 1445,
+        "salesCount": 28,
+        "rentalsCount": 2,
+        "lowerQuartile": null,
+        "upperQuartile": null
+      },
+      "Ayr": {
+        "avgSale": 166970,
+        "avgRent": 1051,
+        "salesCount": 67,
+        "rentalsCount": 23,
+        "lowerQuartile": 55000,
+        "upperQuartile": 85000
+      },
+      "Prestwick": {
+        "avgSale": 190774,
+        "avgRent": 1749,
+        "salesCount": 31,
+        "rentalsCount": 5,
+        "lowerQuartile": 74000,
+        "upperQuartile": 240000
+      },
+      "Troon": {
+        "avgSale": 232964,
+        "avgRent": 1786,
+        "salesCount": 28,
+        "rentalsCount": 7,
+        "lowerQuartile": 92000,
+        "upperQuartile": 170000
+      },
+      "Girvan": {
+        "avgSale": 164840,
+        "avgRent": 856,
+        "salesCount": 49,
+        "rentalsCount": 7,
+        "lowerQuartile": 27000,
+        "upperQuartile": 255000
+      },
+      "Maybole": {
+        "avgSale": 136529,
+        "avgRent": 1197,
+        "salesCount": 59,
+        "rentalsCount": 3,
+        "lowerQuartile": 29750,
+        "upperQuartile": 37000
+      },
+      "Kilmarnock": {
+        "avgSale": 188466,
+        "avgRent": 1026,
+        "salesCount": 103,
+        "rentalsCount": 23,
+        "lowerQuartile": 50000,
+        "upperQuartile": 95000
+      },
+      "Cumnock": {
+        "avgSale": 145634,
+        "avgRent": 791,
+        "salesCount": 41,
+        "rentalsCount": 7,
+        "lowerQuartile": 39000,
+        "upperQuartile": 90000
+      },
+      "Irvine": {
+        "avgSale": 154492,
+        "avgRent": 1020,
+        "salesCount": 61,
+        "rentalsCount": 14,
+        "lowerQuartile": 65000,
+        "upperQuartile": 72000
+      },
+      "Kilwinning": {
+        "avgSale": 221543,
+        "avgRent": 1136,
+        "salesCount": 46,
+        "rentalsCount": 6,
+        "lowerQuartile": 62000,
+        "upperQuartile": 75000
+      },
+      "Ardrossan": {
+        "avgSale": 119829,
+        "avgRent": 1103,
+        "salesCount": 38,
+        "rentalsCount": 8,
+        "lowerQuartile": 69000,
+        "upperQuartile": 148000
+      },
+      "Saltcoats": {
+        "avgSale": 113433,
+        "avgRent": 623,
+        "salesCount": 26,
+        "rentalsCount": 3,
+        "lowerQuartile": 32000,
+        "upperQuartile": 60000
+      },
+      "Largs": {
+        "avgSale": 207239,
+        "avgRent": 1095,
+        "salesCount": 48,
+        "rentalsCount": 16,
+        "lowerQuartile": 79995,
+        "upperQuartile": 180000
+      }
+    }
+  },
+  {
+    "date": "2026-03-20",
+    "towns": {
+      "Alloway": {
+        "avgSale": 314841,
+        "avgRent": 1445,
+        "salesCount": 28,
+        "rentalsCount": 2,
+        "lowerQuartile": null,
+        "upperQuartile": null
+      },
+      "Ayr": {
+        "avgSale": 166463,
+        "avgRent": 1051,
+        "salesCount": 67,
+        "rentalsCount": 23,
+        "lowerQuartile": 39999,
+        "upperQuartile": 85000
+      },
+      "Prestwick": {
+        "avgSale": 184452,
+        "avgRent": 1749,
+        "salesCount": 31,
+        "rentalsCount": 5,
+        "lowerQuartile": 74000,
+        "upperQuartile": 100000
+      },
+      "Troon": {
+        "avgSale": 238536,
+        "avgRent": 1786,
+        "salesCount": 28,
+        "rentalsCount": 7,
+        "lowerQuartile": 92000,
+        "upperQuartile": 170000
+      },
+      "Girvan": {
+        "avgSale": 164840,
+        "avgRent": 856,
+        "salesCount": 49,
+        "rentalsCount": 7,
+        "lowerQuartile": 27000,
+        "upperQuartile": 255000
+      },
+      "Maybole": {
+        "avgSale": 136529,
+        "avgRent": 1197,
+        "salesCount": 59,
+        "rentalsCount": 3,
+        "lowerQuartile": 29750,
+        "upperQuartile": 37000
+      },
+      "Kilmarnock": {
+        "avgSale": 188903,
+        "avgRent": 1026,
+        "salesCount": 103,
+        "rentalsCount": 23,
+        "lowerQuartile": 50000,
+        "upperQuartile": 95000
+      },
+      "Cumnock": {
+        "avgSale": 145268,
+        "avgRent": 791,
+        "salesCount": 41,
+        "rentalsCount": 7,
+        "lowerQuartile": 39000,
+        "upperQuartile": 90000
+      },
+      "Irvine": {
+        "avgSale": 154574,
+        "avgRent": 1020,
+        "salesCount": 61,
+        "rentalsCount": 14,
+        "lowerQuartile": 65000,
+        "upperQuartile": 72000
+      },
+      "Kilwinning": {
+        "avgSale": 217847,
+        "avgRent": 1136,
+        "salesCount": 46,
+        "rentalsCount": 6,
+        "lowerQuartile": 62000,
+        "upperQuartile": 75000
+      },
+      "Ardrossan": {
+        "avgSale": 115092,
+        "avgRent": 1103,
+        "salesCount": 38,
+        "rentalsCount": 8,
+        "lowerQuartile": 69000,
+        "upperQuartile": 148000
+      },
+      "Saltcoats": {
+        "avgSale": 113433,
+        "avgRent": 623,
+        "salesCount": 26,
+        "rentalsCount": 3,
+        "lowerQuartile": 32000,
+        "upperQuartile": 60000
+      },
+      "Largs": {
+        "avgSale": 207239,
+        "avgRent": 1095,
+        "salesCount": 48,
+        "rentalsCount": 16,
+        "lowerQuartile": 79995,
+        "upperQuartile": 180000
+      }
+    }
+  },
+  {
+    "date": "2026-03-20",
+    "towns": {
+      "Alloway": {
+        "avgSale": 314841,
+        "avgRent": 1445,
+        "salesCount": 28,
+        "rentalsCount": 2,
+        "lowerQuartile": null,
+        "upperQuartile": null
+      },
+      "Ayr": {
+        "avgSale": 166970,
+        "avgRent": 1051,
+        "salesCount": 67,
+        "rentalsCount": 23,
+        "lowerQuartile": 55000,
+        "upperQuartile": 85000
+      },
+      "Prestwick": {
+        "avgSale": 190774,
+        "avgRent": 1749,
+        "salesCount": 31,
+        "rentalsCount": 5,
+        "lowerQuartile": 74000,
+        "upperQuartile": 240000
+      },
+      "Troon": {
+        "avgSale": 232964,
+        "avgRent": 1786,
+        "salesCount": 28,
+        "rentalsCount": 7,
+        "lowerQuartile": 92000,
+        "upperQuartile": 170000
+      },
+      "Girvan": {
+        "avgSale": 164840,
+        "avgRent": 856,
+        "salesCount": 49,
+        "rentalsCount": 7,
+        "lowerQuartile": 27000,
+        "upperQuartile": 255000
+      },
+      "Maybole": {
+        "avgSale": 139241,
+        "avgRent": 1197,
+        "salesCount": 59,
+        "rentalsCount": 3,
+        "lowerQuartile": 29750,
+        "upperQuartile": 37000
+      },
+      "Kilmarnock": {
+        "avgSale": 188514,
+        "avgRent": 1026,
+        "salesCount": 103,
+        "rentalsCount": 23,
+        "lowerQuartile": 50000,
+        "upperQuartile": 95000
+      },
+      "Cumnock": {
+        "avgSale": 149536,
+        "avgRent": 791,
+        "salesCount": 41,
+        "rentalsCount": 7,
+        "lowerQuartile": 39000,
+        "upperQuartile": 90000
+      },
+      "Irvine": {
+        "avgSale": 155885,
+        "avgRent": 1020,
+        "salesCount": 61,
+        "rentalsCount": 14,
+        "lowerQuartile": 65000,
+        "upperQuartile": 72000
+      },
+      "Kilwinning": {
+        "avgSale": 217630,
+        "avgRent": 1136,
+        "salesCount": 46,
+        "rentalsCount": 6,
+        "lowerQuartile": 62000,
+        "upperQuartile": 75000
+      },
+      "Ardrossan": {
+        "avgSale": 115092,
+        "avgRent": 1103,
+        "salesCount": 38,
+        "rentalsCount": 8,
+        "lowerQuartile": 69000,
+        "upperQuartile": 148000
+      },
+      "Saltcoats": {
+        "avgSale": 114586,
+        "avgRent": 623,
+        "salesCount": 26,
+        "rentalsCount": 3,
+        "lowerQuartile": 32000,
+        "upperQuartile": 60000
+      },
+      "Largs": {
+        "avgSale": 211198,
+        "avgRent": 1095,
+        "salesCount": 48,
+        "rentalsCount": 16,
+        "lowerQuartile": 85000,
+        "upperQuartile": 195000
+      }
+    }
+  }
+]

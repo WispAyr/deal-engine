@@ -1,0 +1,4259 @@
+[
+  {
+    "id": "dr_49-dickson-drive-irvine-ka12-9ab",
+    "source": "donaldross",
+    "category": "rentals",
+    "town": "Irvine",
+    "latitude": 55.6194,
+    "longitude": -4.6551,
+    "address": "49 Dickson Drive, Irvine, KA12 9AB",
+    "property_type": null,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 600,
+    "summary": null,
+    "estate_agent": "Donald Ross",
+    "features": [],
+    "url": "https://www.donaldross.co.uk/property/49-dickson-drive-irvine-ka12-9ab",
+    "added_date": "2026-03-20T00:00:47.075Z"
+  },
+  {
+    "id": "dr_30-beresford-terrace-ayr-ka7-2eg",
+    "source": "donaldross",
+    "category": "rentals",
+    "town": "Ayr",
+    "latitude": 55.4589,
+    "longitude": -4.6289,
+    "address": "30 Beresford Terrace, Ayr, KA7 2EG",
+    "property_type": null,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 1500,
+    "summary": null,
+    "estate_agent": "Donald Ross",
+    "features": [],
+    "url": "https://www.donaldross.co.uk/property/30-beresford-terrace-ayr-ka7-2eg",
+    "added_date": "2026-03-20T00:00:47.076Z"
+  },
+  {
+    "id": "dr_monktonhill-road-troon-ka10",
+    "source": "donaldross",
+    "category": "rentals",
+    "town": "Troon",
+    "latitude": 55.5406,
+    "longitude": -4.6639,
+    "address": "18 Monktonhill Road, Troon, KA10 7EW",
+    "property_type": null,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "price": 2300,
+    "summary": null,
+    "estate_agent": "Donald Ross",
+    "features": [],
+    "url": "https://www.donaldross.co.uk/property/monktonhill-road-troon-ka10",
+    "added_date": "2026-03-20T00:00:47.076Z"
+  },
+  {
+    "id": "dr_sunnyside-crescent-mauchline-ka5",
+    "source": "donaldross",
+    "category": "rentals",
+    "town": "Kilmarnock",
+    "latitude": 55.6112,
+    "longitude": -4.4956,
+    "address": "20 Sunnyside Crescent, Mauchline - KA5 6DX",
+    "property_type": null,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 595,
+    "summary": null,
+    "estate_agent": "Donald Ross",
+    "features": [],
+    "url": "https://www.donaldross.co.uk/property/sunnyside-crescent-mauchline-ka5",
+    "added_date": "2026-03-20T00:00:47.076Z"
+  },
+  {
+    "id": "dr_castle-square-doonfoot-ka7-4dtv",
+    "source": "donaldross",
+    "category": "rentals",
+    "town": "Ayr",
+    "latitude": 55.4589,
+    "longitude": -4.6289,
+    "address": "Castle Square, Doonfoot, KA7",
+    "property_type": null,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 1300,
+    "summary": null,
+    "estate_agent": "Donald Ross",
+    "features": [],
+    "url": "https://www.donaldross.co.uk/property/castle-square-doonfoot-ka7-4dtv",
+    "added_date": "2026-03-20T00:00:47.076Z"
+  },
+  {
+    "id": "zoopla_72666123",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Alloway",
+    "latitude": 55.4317,
+    "longitude": -4.6358,
+    "address": "Ailsa View Place, Ayr KA7",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1595,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72666123/",
+    "added_date": "2026-03-20T00:01:11.375Z"
+  },
+  {
+    "id": "zoopla_72684697",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Alloway",
+    "latitude": 55.4317,
+    "longitude": -4.6358,
+    "address": "Lancaster Avenue, Beith, North Ayrshire KA15",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1295,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72684697/",
+    "added_date": "2026-03-20T00:01:11.375Z"
+  },
+  {
+    "id": "zoopla_72666123",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Girvan",
+    "latitude": 55.2428,
+    "longitude": -4.8553,
+    "address": "Ailsa View Place, Ayr KA7",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1595,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72666123/",
+    "added_date": "2026-03-20T00:02:02.341Z"
+  },
+  {
+    "id": "zoopla_72146345",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Girvan",
+    "latitude": 55.2428,
+    "longitude": -4.8553,
+    "address": "Garden Cottage, Hensol Estate, Mossdale DG7",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1050,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72146345/",
+    "added_date": "2026-03-20T00:02:02.341Z"
+  },
+  {
+    "id": "zoopla_72666123",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Maybole",
+    "latitude": 55.355,
+    "longitude": -4.6819,
+    "address": "Ailsa View Place, Ayr KA7",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1595,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72666123/",
+    "added_date": "2026-03-20T00:02:15.292Z"
+  },
+  {
+    "id": "zoopla_72684697",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Maybole",
+    "latitude": 55.355,
+    "longitude": -4.6819,
+    "address": "Lancaster Avenue, Beith, North Ayrshire KA15",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1295,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72684697/",
+    "added_date": "2026-03-20T00:02:15.292Z"
+  },
+  {
+    "id": "zoopla_72684697",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Kilmarnock",
+    "latitude": 55.6112,
+    "longitude": -4.4956,
+    "address": "Lancaster Avenue, Beith, North Ayrshire KA15",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1295,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72684697/",
+    "added_date": "2026-03-20T00:02:28.204Z"
+  },
+  {
+    "id": "zoopla_72085950",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Kilmarnock",
+    "latitude": 55.6112,
+    "longitude": -4.4956,
+    "address": "209 Ayr Road, Newton Mearns G77",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 2750,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72085950/",
+    "added_date": "2026-03-20T00:02:28.204Z"
+  },
+  {
+    "id": "zoopla_72616975",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Kilmarnock",
+    "latitude": 55.6112,
+    "longitude": -4.4956,
+    "address": "50 Castle Road, Newton Mearns G77",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1500,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72616975/",
+    "added_date": "2026-03-20T00:02:28.204Z"
+  },
+  {
+    "id": "zoopla_72704960",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Kilmarnock",
+    "latitude": 55.6112,
+    "longitude": -4.4956,
+    "address": "Meadow Rise, Newton Mearns G77",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1095,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72704960/",
+    "added_date": "2026-03-20T00:02:28.204Z"
+  },
+  {
+    "id": "zoopla_72697060",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Kilmarnock",
+    "latitude": 55.6112,
+    "longitude": -4.4956,
+    "address": "Castleton Drive, Newton Mearns G77",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1050,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72697060/",
+    "added_date": "2026-03-20T00:02:28.204Z"
+  },
+  {
+    "id": "zoopla_66032382",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Kilmarnock",
+    "latitude": 55.6112,
+    "longitude": -4.4956,
+    "address": "Johnshill, Lochwinnoch PA12",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1750,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/66032382/",
+    "added_date": "2026-03-20T00:02:28.204Z"
+  },
+  {
+    "id": "zoopla_72664948",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Kilmarnock",
+    "latitude": 55.6112,
+    "longitude": -4.4956,
+    "address": "Herndon Court, Broom Estate, Newton Mearns, Glasgow G77",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1595,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72664948/",
+    "added_date": "2026-03-20T00:02:28.204Z"
+  },
+  {
+    "id": "zoopla_72589704",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Kilmarnock",
+    "latitude": 55.6112,
+    "longitude": -4.4956,
+    "address": "Glasgow G53",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 2200,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72589704/",
+    "added_date": "2026-03-20T00:02:28.204Z"
+  },
+  {
+    "id": "zoopla_72666123",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Kilmarnock",
+    "latitude": 55.6112,
+    "longitude": -4.4956,
+    "address": "Ailsa View Place, Ayr KA7",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1595,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72666123/",
+    "added_date": "2026-03-20T00:02:28.204Z"
+  },
+  {
+    "id": "zoopla_72666123",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Cumnock",
+    "latitude": 55.4531,
+    "longitude": -4.2644,
+    "address": "Ailsa View Place, Ayr KA7",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1595,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72666123/",
+    "added_date": "2026-03-20T00:02:40.888Z"
+  },
+  {
+    "id": "zoopla_72504015",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Cumnock",
+    "latitude": 55.4531,
+    "longitude": -4.2644,
+    "address": "Beechwood Crescent, Lesmahagow ML11",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1100,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72504015/",
+    "added_date": "2026-03-20T00:02:40.888Z"
+  },
+  {
+    "id": "zoopla_72684697",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Irvine",
+    "latitude": 55.6194,
+    "longitude": -4.6551,
+    "address": "Lancaster Avenue, Beith, North Ayrshire KA15",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1295,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72684697/",
+    "added_date": "2026-03-20T00:02:53.706Z"
+  },
+  {
+    "id": "zoopla_66032382",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Irvine",
+    "latitude": 55.6194,
+    "longitude": -4.6551,
+    "address": "Johnshill, Lochwinnoch PA12",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1750,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/66032382/",
+    "added_date": "2026-03-20T00:02:53.706Z"
+  },
+  {
+    "id": "zoopla_72666123",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Irvine",
+    "latitude": 55.6194,
+    "longitude": -4.6551,
+    "address": "Ailsa View Place, Ayr KA7",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1595,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72666123/",
+    "added_date": "2026-03-20T00:02:53.706Z"
+  },
+  {
+    "id": "zoopla_72616975",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Irvine",
+    "latitude": 55.6194,
+    "longitude": -4.6551,
+    "address": "50 Castle Road, Newton Mearns G77",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1500,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72616975/",
+    "added_date": "2026-03-20T00:02:53.706Z"
+  },
+  {
+    "id": "zoopla_72085950",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Irvine",
+    "latitude": 55.6194,
+    "longitude": -4.6551,
+    "address": "209 Ayr Road, Newton Mearns G77",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 2750,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72085950/",
+    "added_date": "2026-03-20T00:02:53.706Z"
+  },
+  {
+    "id": "zoopla_72684697",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Kilwinning",
+    "latitude": 55.655,
+    "longitude": -4.7019,
+    "address": "Lancaster Avenue, Beith, North Ayrshire KA15",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1295,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72684697/",
+    "added_date": "2026-03-20T00:03:06.352Z"
+  },
+  {
+    "id": "zoopla_66032382",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Kilwinning",
+    "latitude": 55.655,
+    "longitude": -4.7019,
+    "address": "Johnshill, Lochwinnoch PA12",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1750,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/66032382/",
+    "added_date": "2026-03-20T00:03:06.352Z"
+  },
+  {
+    "id": "zoopla_72666123",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Kilwinning",
+    "latitude": 55.655,
+    "longitude": -4.7019,
+    "address": "Ailsa View Place, Ayr KA7",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1595,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72666123/",
+    "added_date": "2026-03-20T00:03:06.352Z"
+  },
+  {
+    "id": "zoopla_72684697",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Ardrossan",
+    "latitude": 55.6431,
+    "longitude": -4.8119,
+    "address": "Lancaster Avenue, Beith, North Ayrshire KA15",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1295,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72684697/",
+    "added_date": "2026-03-20T00:03:19.097Z"
+  },
+  {
+    "id": "zoopla_66032382",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Ardrossan",
+    "latitude": 55.6431,
+    "longitude": -4.8119,
+    "address": "Johnshill, Lochwinnoch PA12",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1750,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/66032382/",
+    "added_date": "2026-03-20T00:03:19.097Z"
+  },
+  {
+    "id": "zoopla_72666123",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Ardrossan",
+    "latitude": 55.6431,
+    "longitude": -4.8119,
+    "address": "Ailsa View Place, Ayr KA7",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1595,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72666123/",
+    "added_date": "2026-03-20T00:03:19.097Z"
+  },
+  {
+    "id": "zoopla_66200787",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Ardrossan",
+    "latitude": 55.6431,
+    "longitude": -4.8119,
+    "address": "The Steading, Auchenbothie, Kilmacolm PA13",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1475,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/66200787/",
+    "added_date": "2026-03-20T00:03:19.097Z"
+  },
+  {
+    "id": "zoopla_66032382",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Largs",
+    "latitude": 55.7943,
+    "longitude": -4.8647,
+    "address": "Johnshill, Lochwinnoch PA12",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1750,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/66032382/",
+    "added_date": "2026-03-20T00:03:44.400Z"
+  },
+  {
+    "id": "zoopla_72684697",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Largs",
+    "latitude": 55.7943,
+    "longitude": -4.8647,
+    "address": "Lancaster Avenue, Beith, North Ayrshire KA15",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1295,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72684697/",
+    "added_date": "2026-03-20T00:03:44.400Z"
+  },
+  {
+    "id": "zoopla_70684369",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Largs",
+    "latitude": 55.7943,
+    "longitude": -4.8647,
+    "address": "Royal Crescent, Dunoon, Argyll & Bute PA23",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1300,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/70684369/",
+    "added_date": "2026-03-20T00:03:44.400Z"
+  },
+  {
+    "id": "zoopla_66200787",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Largs",
+    "latitude": 55.7943,
+    "longitude": -4.8647,
+    "address": "The Steading, Auchenbothie, Kilmacolm PA13",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1475,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/66200787/",
+    "added_date": "2026-03-20T00:03:44.400Z"
+  },
+  {
+    "id": "zoopla_72456001",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Largs",
+    "latitude": 55.7943,
+    "longitude": -4.8647,
+    "address": "Blairmore, Dunoon, Argyll & Bute PA23",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1100,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/72456001/",
+    "added_date": "2026-03-20T00:03:44.400Z"
+  },
+  {
+    "id": "zoopla_64774290",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Largs",
+    "latitude": 55.7943,
+    "longitude": -4.8647,
+    "address": "Formakin Estate Houston Road, Bishopton, Renfrewshire PA7",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 4000,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/64774290/",
+    "added_date": "2026-03-20T00:03:44.400Z"
+  },
+  {
+    "id": "zoopla_65292868",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Largs",
+    "latitude": 55.7943,
+    "longitude": -4.8647,
+    "address": "Helenslee Road, Dumbarton, Wdc G82",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1200,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/65292868/",
+    "added_date": "2026-03-20T00:03:44.400Z"
+  },
+  {
+    "id": "zoopla_64501458",
+    "source": "zoopla",
+    "category": "rentals",
+    "town": "Largs",
+    "latitude": 55.7943,
+    "longitude": -4.8647,
+    "address": "Glenluce Drive, Bishopton, Renfrewshire PA7",
+    "property_type": null,
+    "bedrooms": null,
+    "bathrooms": null,
+    "price": 1250,
+    "summary": null,
+    "estate_agent": null,
+    "features": [],
+    "url": "https://www.zoopla.co.uk/to-rent/details/64501458/",
+    "added_date": "2026-03-20T00:03:44.400Z"
+  },
+  {
+    "id": "rm_173351081",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ayr",
+    "latitude": 55.456874,
+    "longitude": -4.629677,
+    "address": "30 Beresford Terrace, Ayr, KA7 2EG",
+    "property_type": "Semi-Detached",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 1500,
+    "summary": "Exquisite 3-bed . Modern living with stylish kitchen, private driveway, and tranquil gardens. Ideal for comfortable & stylish living.",
+    "estate_agent": "Ayr",
+    "features": [
+      {
+        "order": 1,
+        "description": "Three bedrooms",
+        "htmlDescription": "Three bedrooms"
+      },
+      {
+        "order": 2,
+        "description": "Bathroom & WC",
+        "htmlDescription": "Bathroom & WC"
+      },
+      {
+        "order": 3,
+        "description": "Modern Kitchen",
+        "htmlDescription": "Modern Kitchen"
+      },
+      {
+        "order": 4,
+        "description": "Driveway",
+        "htmlDescription": "Driveway"
+      },
+      {
+        "order": 5,
+        "description": "Front & rear garden",
+        "htmlDescription": "Front & rear garden"
+      },
+      {
+        "order": 6,
+        "description": "Virtual Tour Available",
+        "htmlDescription": "Virtual Tour Available"
+      },
+      {
+        "order": 7,
+        "description": "1538958/370/04022",
+        "htmlDescription": "1538958/370/04022"
+      },
+      {
+        "order": 8,
+        "description": "LARN1905060",
+        "htmlDescription": "LARN1905060"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173351081#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5bd4fa545/173351081/5bd4fa5455c36e34b1c694599833b9f8_max_476x317.jpeg",
+    "added_date": "2026-03-16T16:26:29Z"
+  },
+  {
+    "id": "rm_173334068",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ayr",
+    "latitude": 55.464141,
+    "longitude": -4.634053,
+    "address": "17 Cathcart Street, Ayr, Ayr, Ayrshire, KA7",
+    "property_type": "Terraced",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 850,
+    "summary": "Impressive two bedroom furnished top floor flat situated in Ayr Town Centre close to all local amenities.",
+    "estate_agent": "Glasgow",
+    "features": [
+      {
+        "order": 1,
+        "description": "Close to public transport",
+        "htmlDescription": "Close to public transport"
+      },
+      {
+        "order": 2,
+        "description": "Shops and amenities nearby",
+        "htmlDescription": "Shops and amenities nearby"
+      },
+      {
+        "order": 3,
+        "description": "Furnished",
+        "htmlDescription": "Furnished"
+      },
+      {
+        "order": 4,
+        "description": "Jacuzzi Style Bath",
+        "htmlDescription": "Jacuzzi Style Bath"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173334068#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5040216a5/173334068/5040216a5cde1a6dfe4d3d7a2ba0c2df_max_476x317.jpeg",
+    "added_date": "2026-03-16T13:01:30Z"
+  },
+  {
+    "id": "rm_173262551",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ayr",
+    "latitude": 55.45844,
+    "longitude": -4.59521,
+    "address": "Overmills Road, Ayr, Ayrshire, KA7",
+    "property_type": "Detached Bungalow",
+    "bedrooms": 3,
+    "bathrooms": null,
+    "price": 875,
+    "summary": "**EMAIL ENQUIRIES ONLY** This UNFURNISHED DETACHED BUNGALOW is situated close to local schools in AYR. Driveway. Gardens.",
+    "estate_agent": "Ayr",
+    "features": [
+      {
+        "order": 1,
+        "description": "Unfurnished Detached Bungalow",
+        "htmlDescription": "Unfurnished Detached Bungalow"
+      },
+      {
+        "order": 2,
+        "description": "Located in Ayr",
+        "htmlDescription": "Located in Ayr"
+      },
+      {
+        "order": 3,
+        "description": "GCH",
+        "htmlDescription": "GCH"
+      },
+      {
+        "order": 4,
+        "description": "Gardens",
+        "htmlDescription": "Gardens"
+      },
+      {
+        "order": 5,
+        "description": "Drivway",
+        "htmlDescription": "Drivway"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173262551#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/24d8365a7/173262551/24d8365a767604eaf41e2a0242dfd251_max_476x317.jpeg",
+    "added_date": "2026-03-13T15:51:25Z"
+  },
+  {
+    "id": "rm_173189303",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ayr",
+    "latitude": 55.47012,
+    "longitude": -4.61655,
+    "address": "Wilson Street, Ayr, South Ayrshire, KA8",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 625,
+    "summary": "Spacious 2-bedroom upper flat featuring two double bedrooms, a bright family lounge, fitted kitchen, and bathroom. The property has its own private entrance leading to a hallway with access to all rooms. Both bedrooms offer ample space for double beds and storage. The bathroom currently includes ...",
+    "estate_agent": "Prestwick",
+    "features": [
+      {
+        "order": 1,
+        "description": "2 Bedrooms",
+        "htmlDescription": "2 Bedrooms"
+      },
+      {
+        "order": 2,
+        "description": "Gas central heating",
+        "htmlDescription": "Gas central heating"
+      },
+      {
+        "order": 3,
+        "description": "Double Glazing",
+        "htmlDescription": "Double Glazing"
+      },
+      {
+        "order": 4,
+        "description": "Modern fitted kitchen",
+        "htmlDescription": "Modern fitted kitchen"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173189303#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c0799176c/173189303/c0799176c43207b9d3a63edba2ed8755_max_476x317.jpeg",
+    "added_date": "2026-03-12T10:36:04Z"
+  },
+  {
+    "id": "rm_173188352",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ayr",
+    "latitude": 55.43187,
+    "longitude": -4.612669,
+    "address": "Rozzelle Terrace, Ayr",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 750,
+    "summary": "A well-presented upper flat offering spacious accommodation with two double bedrooms, an upgraded kitchen and shower room, and a large private rear garden.",
+    "estate_agent": "Ayr",
+    "features": [
+      {
+        "order": 1,
+        "description": "Convenient Location",
+        "htmlDescription": "Convenient Location "
+      },
+      {
+        "order": 2,
+        "description": "2 Double Bedrooms",
+        "htmlDescription": "2 Double Bedrooms"
+      },
+      {
+        "order": 3,
+        "description": "Fully modernised",
+        "htmlDescription": "Fully modernised"
+      },
+      {
+        "order": 4,
+        "description": "Double Glazing",
+        "htmlDescription": "Double Glazing"
+      },
+      {
+        "order": 5,
+        "description": "Council Tax - B",
+        "htmlDescription": "Council Tax - B"
+      },
+      {
+        "order": 6,
+        "description": "Neutral and appealing décor",
+        "htmlDescription": "Neutral and appealing décor"
+      },
+      {
+        "order": 7,
+        "description": "Modern Shower room",
+        "htmlDescription": "Modern Shower room"
+      },
+      {
+        "order": 8,
+        "description": "Large garden",
+        "htmlDescription": "Large garden"
+      },
+      {
+        "order": 9,
+        "description": "Street Parking",
+        "htmlDescription": "Street Parking"
+      },
+      {
+        "order": 10,
+        "description": "Viewings Recommended",
+        "htmlDescription": "Viewings Recommended"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173188352#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/54b26fb5f/173188352/54b26fb5fcb96acad802f57bea76c63e_max_476x317.jpeg",
+    "added_date": "2026-03-12T10:24:02Z"
+  },
+  {
+    "id": "rm_173166707",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ayr",
+    "latitude": 55.43731,
+    "longitude": -4.60852,
+    "address": "Kincaidston Drive, Ayr, Ayrshire, KA7",
+    "property_type": "Terraced",
+    "bedrooms": 3,
+    "bathrooms": null,
+    "price": 1050,
+    "summary": "Spacious 3-Bedroom Mid-Terrace Family Home - Ayr - Viewing Essential!",
+    "estate_agent": "Greenock",
+    "features": [],
+    "url": "https://www.rightmove.co.uk/properties/173166707#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/868e413a7/173166707/868e413a7a2b7f410548bc2fee78380e_max_476x317.jpeg",
+    "added_date": "2026-03-12T09:19:14Z"
+  },
+  {
+    "id": "rm_173167352",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ayr",
+    "latitude": 55.46765,
+    "longitude": -4.63948,
+    "address": "South Beach Road, Ayr, KA7",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 850,
+    "summary": "Fantastic 2 bedroom first floor apartment in private residential block with designated parking and secure entry. 2 bedrooms, kitchen, spacious lounge, bathroom. Furnished. DG/GCH/Secure Entry.",
+    "estate_agent": "Prestwick",
+    "features": [
+      {
+        "order": 1,
+        "description": "Beachfront Location",
+        "htmlDescription": "Beachfront Location"
+      },
+      {
+        "order": 2,
+        "description": "Open Plan",
+        "htmlDescription": "Open Plan"
+      },
+      {
+        "order": 3,
+        "description": "Close to Town Centre",
+        "htmlDescription": "Close to Town Centre"
+      },
+      {
+        "order": 4,
+        "description": "Allocated Parking Space",
+        "htmlDescription": "Allocated Parking Space"
+      },
+      {
+        "order": 5,
+        "description": "Double glazing",
+        "htmlDescription": "Double glazing"
+      },
+      {
+        "order": 6,
+        "description": "Shower",
+        "htmlDescription": "Shower"
+      },
+      {
+        "order": 7,
+        "description": "Washing machine",
+        "htmlDescription": "Washing machine"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173167352#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7dffc819c/173167352/7dffc819c9ab00567a953e1167b77f55_max_476x317.jpeg",
+    "added_date": "2026-03-11T16:30:37Z"
+  },
+  {
+    "id": "rm_59143520",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ayr",
+    "latitude": 55.46766,
+    "longitude": -4.62966,
+    "address": "56D Main Street, Ayr, KA8 8EF",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": null,
+    "price": 550,
+    "summary": "Homesure are offering to the rental market this freshly decorated, centrally located two bedroom flat in Ayr. The property offers a modern fitted kitchen and is neutrally decorated throughout. It is located close to several good transport links and local amenities.",
+    "estate_agent": "Ayrshire",
+    "features": [
+      {
+        "order": 1,
+        "description": "Fresh neutral decor",
+        "htmlDescription": "Fresh neutral decor"
+      },
+      {
+        "order": 2,
+        "description": "Modern fitted kitchen",
+        "htmlDescription": "Modern fitted kitchen "
+      },
+      {
+        "order": 3,
+        "description": "Close to the college and university",
+        "htmlDescription": "Close to the college and university"
+      },
+      {
+        "order": 4,
+        "description": "Close to great transport links and amenitites",
+        "htmlDescription": "Close to great transport links and amenitites"
+      },
+      {
+        "order": 5,
+        "description": "Central location",
+        "htmlDescription": "Central location "
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/59143520#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7b94be26c/59143520/7b94be26ce5558286a2cf76097863660_max_476x317.jpeg",
+    "added_date": "2016-04-27T15:55:07Z"
+  },
+  {
+    "id": "rm_173096846",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ayr",
+    "latitude": 55.4661,
+    "longitude": -4.63226,
+    "address": "North Harbour Street, Ayr, South Ayrshire, KA8",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 750,
+    "summary": "Recently refurbished 2 bedroom first floor flat, situated in the popular North Harbour location of Ayr. Viewing highly recommended.",
+    "estate_agent": "Prestwick",
+    "features": [
+      {
+        "order": 1,
+        "description": "REcently refurbished",
+        "htmlDescription": "REcently refurbished"
+      },
+      {
+        "order": 2,
+        "description": "2 Bedrooms",
+        "htmlDescription": "2 Bedrooms"
+      },
+      {
+        "order": 3,
+        "description": "Spacious Lounge",
+        "htmlDescription": "Spacious Lounge"
+      },
+      {
+        "order": 4,
+        "description": "Fitted Kitchen",
+        "htmlDescription": "Fitted Kitchen"
+      },
+      {
+        "order": 5,
+        "description": "Modern Bathroom",
+        "htmlDescription": "Modern Bathroom"
+      },
+      {
+        "order": 6,
+        "description": "Residents Parking",
+        "htmlDescription": "Residents Parking"
+      },
+      {
+        "order": 7,
+        "description": "Secure Entry",
+        "htmlDescription": "Secure Entry"
+      },
+      {
+        "order": 8,
+        "description": "Viewing Recommended",
+        "htmlDescription": "Viewing Recommended"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173096846#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9d930e7e8/173096846/9d930e7e8287024064348b141aa49a69_max_476x317.jpeg",
+    "added_date": "2026-03-10T12:00:22Z"
+  },
+  {
+    "id": "rm_173094140",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ayr",
+    "latitude": 55.47161,
+    "longitude": -4.60177,
+    "address": "Glenmuir Road, Ayr, South Ayrshire, KA8",
+    "property_type": "Flat",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 600,
+    "summary": "Recently refurbished and presented in immaculate condition, 1 bedroom first floor flat. Viewing highly recommended.",
+    "estate_agent": "Prestwick",
+    "features": [
+      {
+        "order": 1,
+        "description": "Modern 1st Floor Flat",
+        "htmlDescription": "Modern 1st Floor Flat"
+      },
+      {
+        "order": 2,
+        "description": "1 Bedroom",
+        "htmlDescription": "1 Bedroom"
+      },
+      {
+        "order": 3,
+        "description": "Spacious Lounge",
+        "htmlDescription": "Spacious Lounge"
+      },
+      {
+        "order": 4,
+        "description": "Fitted Kitchen",
+        "htmlDescription": "Fitted Kitchen"
+      },
+      {
+        "order": 5,
+        "description": "Shower Room",
+        "htmlDescription": "Shower Room"
+      },
+      {
+        "order": 6,
+        "description": "Secure Entry",
+        "htmlDescription": "Secure Entry"
+      },
+      {
+        "order": 7,
+        "description": "On Street Parking",
+        "htmlDescription": "On Street Parking"
+      },
+      {
+        "order": 8,
+        "description": "Gas Central Heating",
+        "htmlDescription": "Gas Central Heating"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173094140#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b4e62d1b/173094140/5b4e62d1be8e3b5d4f6eba60a456e5b5_max_476x317.jpeg",
+    "added_date": "2026-03-10T11:30:58Z"
+  },
+  {
+    "id": "rm_171374747",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ayr",
+    "latitude": 55.464125,
+    "longitude": -4.63023,
+    "address": "Old Bridge Street, Ayr",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 900,
+    "summary": "Presenting a unique and delightful property in Old Bridge Street, Ayr. Entering through it's own private entrance the accommodation is fantastically placed for shopping amenities and easy transport facilities.\n",
+    "estate_agent": "Ayr",
+    "features": [
+      {
+        "order": 1,
+        "description": "Excellant order",
+        "htmlDescription": "Excellant order"
+      },
+      {
+        "order": 2,
+        "description": "2 Bedrooms",
+        "htmlDescription": "2 Bedrooms"
+      },
+      {
+        "order": 3,
+        "description": "Fully modernised",
+        "htmlDescription": "Fully modernised"
+      },
+      {
+        "order": 4,
+        "description": "Excellent town Centre location",
+        "htmlDescription": "Excellent town Centre location "
+      },
+      {
+        "order": 5,
+        "description": "Private Entrance",
+        "htmlDescription": "Private Entrance"
+      },
+      {
+        "order": 6,
+        "description": "Electric Heating",
+        "htmlDescription": "Electric Heating "
+      },
+      {
+        "order": 7,
+        "description": "Double Glazing",
+        "htmlDescription": "Double Glazing "
+      },
+      {
+        "order": 8,
+        "description": "Good Travel Links",
+        "htmlDescription": "Good Travel Links "
+      },
+      {
+        "order": 9,
+        "description": "Convenient Location",
+        "htmlDescription": "Convenient Location "
+      },
+      {
+        "order": 10,
+        "description": "Close to Amenities",
+        "htmlDescription": "Close to Amenities "
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/171374747#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3616754ec/171374747/3616754ec9af58cc1183c69a3a021144_max_476x317.jpeg",
+    "added_date": "2026-03-06T13:58:06Z"
+  },
+  {
+    "id": "rm_172895477",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ayr",
+    "latitude": 55.45054,
+    "longitude": -4.62853,
+    "address": "St. Leonards Road, Ayr, Ayrshire, KA7",
+    "property_type": "Detached",
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "price": 1700,
+    "summary": "Four-bedroom, five bathroom detached house located at Flaxton Court in Ayr, offering spacious and flexible living. A rare opportunity to rent a home with generous bedroom space and multiple ensuite bathrooms.",
+    "estate_agent": "Prestwick",
+    "features": [
+      {
+        "order": 1,
+        "description": "Deatched Villa",
+        "htmlDescription": "Deatched Villa"
+      },
+      {
+        "order": 2,
+        "description": "Gas Central Heating",
+        "htmlDescription": "Gas Central Heating"
+      },
+      {
+        "order": 3,
+        "description": "Double Glazing",
+        "htmlDescription": "Double Glazing"
+      },
+      {
+        "order": 4,
+        "description": "2 Public Rooms",
+        "htmlDescription": "2 Public Rooms"
+      },
+      {
+        "order": 5,
+        "description": "4 Bedrooms",
+        "htmlDescription": "4 Bedrooms"
+      },
+      {
+        "order": 6,
+        "description": "5 Bathrooms",
+        "htmlDescription": "5 Bathrooms"
+      },
+      {
+        "order": 7,
+        "description": "Private Parking",
+        "htmlDescription": "Private Parking"
+      },
+      {
+        "order": 8,
+        "description": "Garage",
+        "htmlDescription": "Garage"
+      },
+      {
+        "order": 9,
+        "description": "EPC C",
+        "htmlDescription": "EPC C"
+      },
+      {
+        "order": 10,
+        "description": "Council tax G",
+        "htmlDescription": "Council tax G"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/172895477#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9b6d921c2/172895477/9b6d921c283d31de935e1c2aa2031c25_max_476x317.jpeg",
+    "added_date": "2026-03-05T09:47:37Z"
+  },
+  {
+    "id": "rm_168508379",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ayr",
+    "latitude": 55.468162,
+    "longitude": -4.640124,
+    "address": "46 Churchill Tower, South Harbour Street",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 800,
+    "summary": "46 Churchill Tower, Ayr, Two-Bedroom Apartment with Partial Sea Views. Just steps from Ayr Seafront, this bright and modern two-bedroom apartment offers the perfect combination of contemporary living and coastal charm. Featuring a Juliet balcony, two double bedrooms, and stunning partial views of...",
+    "estate_agent": "Girvan",
+    "features": [
+      {
+        "order": 1,
+        "description": "Close to Town Centre",
+        "htmlDescription": "Close to Town Centre"
+      },
+      {
+        "order": 2,
+        "description": "Close to Local Amenities",
+        "htmlDescription": "Close to Local Amenities"
+      },
+      {
+        "order": 3,
+        "description": "Two Bedrooms",
+        "htmlDescription": "Two Bedrooms"
+      },
+      {
+        "order": 4,
+        "description": "Living/Dining Room",
+        "htmlDescription": "Living/Dining Room"
+      },
+      {
+        "order": 5,
+        "description": "Gas Central Heating",
+        "htmlDescription": "Gas Central Heating"
+      },
+      {
+        "order": 6,
+        "description": "Bathroom",
+        "htmlDescription": "Bathroom"
+      },
+      {
+        "order": 7,
+        "description": "Kitchen",
+        "htmlDescription": "Kitchen"
+      },
+      {
+        "order": 8,
+        "description": "Double Glazing",
+        "htmlDescription": "Double Glazing"
+      },
+      {
+        "order": 9,
+        "description": "Close to Sea Front",
+        "htmlDescription": "Close to Sea Front"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/168508379#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7b228d42/168508379/b7b228d42ab89454e0f68acd263ba4ee_max_476x317.jpeg",
+    "added_date": "2025-10-23T00:45:12Z"
+  },
+  {
+    "id": "rm_172803860",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ayr",
+    "latitude": 55.47151,
+    "longitude": -4.59765,
+    "address": "Main Road, Ayr, South Ayrshire, KA8",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 650,
+    "summary": "Modern 2-bedroom flat to rent on Main Road, Ayr. Bright lounge, contemporary kitchen, stylish shower room, and two good-sized bedrooms. Convenient location close to local amenities and transport links.",
+    "estate_agent": "Prestwick",
+    "features": [],
+    "url": "https://www.rightmove.co.uk/properties/172803860#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4469514a9/172803860/4469514a9ca73e2cfbf6cde1d706fbc5_max_476x317.jpeg",
+    "added_date": "2026-03-03T11:12:07Z"
+  },
+  {
+    "id": "rm_172803842",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ayr",
+    "latitude": 55.46336,
+    "longitude": -4.63002,
+    "address": "High Street, Ayr, South Ayrshire, KA7",
+    "property_type": "Flat",
+    "bedrooms": 1,
+    "bathrooms": 0,
+    "price": 450,
+    "summary": "Studio flat available now in Ayr Town Centre.",
+    "estate_agent": "Prestwick",
+    "features": [],
+    "url": "https://www.rightmove.co.uk/properties/172803842#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5d2a6a7cd/172803842/5d2a6a7cdf9a310433d15b36ddb60433_max_476x317.jpeg",
+    "added_date": "2026-03-03T11:11:59Z"
+  },
+  {
+    "id": "rm_172407014",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ayr",
+    "latitude": 55.436269,
+    "longitude": -4.661791,
+    "address": "Castle Square, Doonfoot, KA7",
+    "property_type": "Semi-Detached",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 1300,
+    "summary": "Well presented 3 bed semi with conservatory, modern kitchen, large driveway (EV charger), summer house, double glazing, central heating. Sought-after area near schools. Virtual tour only.",
+    "estate_agent": "Ayr",
+    "features": [
+      {
+        "order": 1,
+        "description": "Enclosed Rear Garden",
+        "htmlDescription": "Enclosed Rear Garden"
+      },
+      {
+        "order": 2,
+        "description": "EV Charger",
+        "htmlDescription": "EV Charger"
+      },
+      {
+        "order": 3,
+        "description": "Conservatory",
+        "htmlDescription": "Conservatory"
+      },
+      {
+        "order": 4,
+        "description": "Spacious Lounge",
+        "htmlDescription": "Spacious Lounge"
+      },
+      {
+        "order": 5,
+        "description": "Summer House with Separate Storage Area",
+        "htmlDescription": "Summer House with Separate Storage Area"
+      },
+      {
+        "order": 6,
+        "description": "Large Driveway",
+        "htmlDescription": "Large Driveway"
+      },
+      {
+        "order": 7,
+        "description": "Sought After Location",
+        "htmlDescription": "Sought After Location"
+      },
+      {
+        "order": 8,
+        "description": "1788514/370/02092 & LARN 1905060",
+        "htmlDescription": "1788514/370/02092 & LARN 1905060"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/172407014#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/370dbe685/172407014/370dbe6854223e448f467611e857724a_max_476x317.jpeg",
+    "added_date": "2026-02-19T16:02:04Z"
+  },
+  {
+    "id": "rm_172367603",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ayr",
+    "latitude": 55.44959,
+    "longitude": -4.61851,
+    "address": "Meadowpark Drive, Ayr, Ayrshire, KA7",
+    "property_type": "Detached",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 1100,
+    "summary": "A seldom available 3 bedroom detached bungalow located within a popular residential part of Ayr.",
+    "estate_agent": "Prestwick",
+    "features": [
+      {
+        "order": 1,
+        "description": "3 Bedrooms",
+        "htmlDescription": "3 Bedrooms"
+      },
+      {
+        "order": 2,
+        "description": "2 Public Rooms",
+        "htmlDescription": "2 Public Rooms"
+      },
+      {
+        "order": 3,
+        "description": "Master En-Suite",
+        "htmlDescription": "Master En-Suite"
+      },
+      {
+        "order": 4,
+        "description": "Double Glazing",
+        "htmlDescription": "Double Glazing"
+      },
+      {
+        "order": 5,
+        "description": "Gas Central Heating",
+        "htmlDescription": "Gas Central Heating"
+      },
+      {
+        "order": 6,
+        "description": "Driveway & Garage",
+        "htmlDescription": "Driveway & Garage"
+      },
+      {
+        "order": 7,
+        "description": "Enclosed Rear Gardens",
+        "htmlDescription": "Enclosed Rear Gardens"
+      },
+      {
+        "order": 8,
+        "description": "Popular Residential Local",
+        "htmlDescription": "Popular Residential Local"
+      },
+      {
+        "order": 9,
+        "description": "LARN1908017",
+        "htmlDescription": "LARN1908017"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/172367603#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/184d011f0/172367603/184d011f0eb099634a8eb4baf3e973e0_max_476x317.jpeg",
+    "added_date": "2026-02-18T17:38:22Z"
+  },
+  {
+    "id": "rm_171911756",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ayr",
+    "latitude": 55.45979,
+    "longitude": -4.62488,
+    "address": "Smith Street, KA7 1TD",
+    "property_type": "Flat",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 575,
+    "summary": "Charming Upper-Floor Flat in Prime Ayr Town Centre Location",
+    "estate_agent": "Ayr",
+    "features": [
+      {
+        "order": 1,
+        "description": "Upper Floor",
+        "htmlDescription": "Upper Floor"
+      },
+      {
+        "order": 2,
+        "description": "Spacious Lounge",
+        "htmlDescription": "Spacious Lounge"
+      },
+      {
+        "order": 3,
+        "description": "Part furnished",
+        "htmlDescription": "Part furnished"
+      },
+      {
+        "order": 4,
+        "description": "Near Train Station",
+        "htmlDescription": "Near Train Station"
+      },
+      {
+        "order": 5,
+        "description": "Council Tax Band - B",
+        "htmlDescription": "Council Tax Band - B"
+      },
+      {
+        "order": 6,
+        "description": "EPC Band - E",
+        "htmlDescription": "EPC Band - E"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/171911756#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1e9c21d5b/171911756/1e9c21d5bc9767417a5e1d33d38cadc2_max_476x317.jpeg",
+    "added_date": "2026-02-05T17:23:13Z"
+  },
+  {
+    "id": "rm_121452416",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ayr",
+    "latitude": 55.44656,
+    "longitude": -4.60866,
+    "address": "Forest Way, Ayr, Ayrshire, KA7",
+    "property_type": "Detached Bungalow",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 1250,
+    "summary": "COMING SOON",
+    "estate_agent": "Ayrshire",
+    "features": [],
+    "url": "https://www.rightmove.co.uk/properties/121452416#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8072ce94b/121452416/8072ce94b0bde59c5dce535752d4c9ef_max_476x317.jpeg",
+    "added_date": "2022-03-23T14:41:52Z"
+  },
+  {
+    "id": "rm_173310452",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ayr",
+    "latitude": 55.49161,
+    "longitude": -4.529409,
+    "address": "Drumley Drive, Mossblown, Ayr, KA6",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 600,
+    "summary": "Two bedroom upper quarter flat with private garden and parking within Mossblown. Property is newly decorated and available for immediate rent for long term tenancy. Deposit is 1.5 months rent.... ** Property Reference: 2587217 **",
+    "estate_agent": "London",
+    "features": [
+      {
+        "order": 1,
+        "description": "No Agent Fees",
+        "htmlDescription": "No Agent Fees"
+      },
+      {
+        "order": 2,
+        "description": "Students Can Enquire",
+        "htmlDescription": "Students Can Enquire"
+      },
+      {
+        "order": 3,
+        "description": "Property Reference Number: 2587217",
+        "htmlDescription": "Property Reference Number: 2587217"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173310452#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0314b18dc/173310452/0314b18dca2cd2881292c3ac9a29cb6d_max_476x317.jpeg",
+    "added_date": "2026-03-15T15:04:49Z"
+  },
+  {
+    "id": "rm_161681216",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ayr",
+    "latitude": 55.46385,
+    "longitude": -4.63258,
+    "address": "Sandgate, Ayr, Ayrshire, KA7",
+    "property_type": "Town House",
+    "bedrooms": 4,
+    "bathrooms": null,
+    "price": 3650,
+    "summary": "*****Corporate let (Inclusive of all bills). Make one monthly payment and we will take care of the rest. Rent includes: Gas, Electricity, WIFI and Council Tax. Leases from as short as a week. ",
+    "estate_agent": "Ayrshire",
+    "features": [],
+    "url": "https://www.rightmove.co.uk/properties/161681216#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1eac83f57/161681216/1eac83f578855b34cb4c3b100300b780_max_476x317.jpeg",
+    "added_date": "2025-05-08T14:51:29Z"
+  },
+  {
+    "id": "rm_173462528",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Prestwick",
+    "latitude": 55.499851,
+    "longitude": -4.609225,
+    "address": "Ladykirk Road, Prestwick, Ayrshire, KA9",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 650,
+    "summary": "First floor, two bedroom conveniently situated very close to Prestwick town centre. The property further benefits from gas central heating and double glazing.",
+    "estate_agent": "Glasgow",
+    "features": [
+      {
+        "order": 1,
+        "description": "Close to public transport",
+        "htmlDescription": "Close to public transport"
+      },
+      {
+        "order": 2,
+        "description": "Shops and amenities nearby",
+        "htmlDescription": "Shops and amenities nearby"
+      },
+      {
+        "order": 3,
+        "description": "shared Garden",
+        "htmlDescription": "shared Garden"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173462528#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/301d9d2e5/173462528/301d9d2e5fdf769df8f9dbc32851a65f_max_476x317.jpeg",
+    "added_date": "2026-03-19T10:17:34Z"
+  },
+  {
+    "id": "rm_145589453",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Prestwick",
+    "latitude": 55.50483,
+    "longitude": -4.60364,
+    "address": "Shawfarm Gardens, Prestwick, Ayrshire, KA9",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "price": 795,
+    "summary": "Two-bedroom first floor flat located within Shawfarm Gardens, Prestwick, offering bright and modern living within a popular residential area close to the town centre.",
+    "estate_agent": "Prestwick",
+    "features": [
+      {
+        "order": 1,
+        "description": "LARN1908017",
+        "htmlDescription": "LARN1908017"
+      },
+      {
+        "order": 2,
+        "description": "First Floor Apartment",
+        "htmlDescription": "First Floor Apartment"
+      },
+      {
+        "order": 3,
+        "description": "Gas Central Heating",
+        "htmlDescription": "Gas Central Heating"
+      },
+      {
+        "order": 4,
+        "description": "Double Glazing",
+        "htmlDescription": "Double Glazing"
+      },
+      {
+        "order": 5,
+        "description": "Private Parking",
+        "htmlDescription": "Private Parking"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/145589453#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e688c43f8/145589453/e688c43f858dee7bb02b71be5156dd03_max_476x317.jpeg",
+    "added_date": "2024-03-11T11:56:37Z"
+  },
+  {
+    "id": "rm_173318768",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Prestwick",
+    "latitude": 55.489873,
+    "longitude": -4.610761,
+    "address": "Crawford Avenue, London",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "price": 2300,
+    "summary": "Situated in the vibrant and rapidly developing Wembley area, this beautifully presented two-bedroom, two-bathroom apartment offers modern living within one of North West London’s most exciting neighbourhoods",
+    "estate_agent": "Wembley- Lettings",
+    "features": [
+      {
+        "order": 1,
+        "description": "Two bedrooms",
+        "htmlDescription": "Two bedrooms"
+      },
+      {
+        "order": 2,
+        "description": "Two bathrooms",
+        "htmlDescription": "Two bathrooms"
+      },
+      {
+        "order": 3,
+        "description": "Available now",
+        "htmlDescription": "Available now"
+      },
+      {
+        "order": 4,
+        "description": "Close to local amenities",
+        "htmlDescription": "Close to local amenities"
+      },
+      {
+        "order": 5,
+        "description": "Excellent transport links",
+        "htmlDescription": "Excellent transport links"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173318768#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3b4b211c2/173318768/3b4b211c25cc4e64ad905a3826983b66_max_476x317.jpeg",
+    "added_date": "2026-03-16T09:51:54Z"
+  },
+  {
+    "id": "rm_173210753",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Prestwick",
+    "latitude": 55.49946,
+    "longitude": -4.61897,
+    "address": "Ardayre Road, Prestwick, South Ayrshire, KA9",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 1100,
+    "summary": "Spacious and rarely available two-bedroom ground floor flat, ideally positioned in the highly sought-after beachfront area of Prestwick. Offering generous accommodation and an enviable coastal setting, this superb property is perfect for a range of tenants. Early viewing is highly recommended to ...",
+    "estate_agent": "Prestwick",
+    "features": [
+      {
+        "order": 1,
+        "description": "Beach Front Location",
+        "htmlDescription": "Beach Front Location"
+      },
+      {
+        "order": 2,
+        "description": "2 Bedrooms",
+        "htmlDescription": "2 Bedrooms"
+      },
+      {
+        "order": 3,
+        "description": "Spacious Lounge",
+        "htmlDescription": "Spacious Lounge"
+      },
+      {
+        "order": 4,
+        "description": "Fitted Dining Kitchen",
+        "htmlDescription": "Fitted Dining Kitchen"
+      },
+      {
+        "order": 5,
+        "description": "Off Street Parking",
+        "htmlDescription": "Off Street Parking"
+      },
+      {
+        "order": 6,
+        "description": "Shower Room",
+        "htmlDescription": "Shower Room"
+      },
+      {
+        "order": 7,
+        "description": "Viewing Highly Recommended",
+        "htmlDescription": "Viewing Highly Recommended"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173210753#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/696ca00ea/173210753/696ca00ea180162ff09061417f4dd2fd_max_476x317.jpeg",
+    "added_date": "2026-03-12T15:28:05Z"
+  },
+  {
+    "id": "rm_161713637",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Prestwick",
+    "latitude": 55.493,
+    "longitude": -4.61854,
+    "address": "St. Ninians Road, Prestwick, Ayrshire, KA9 1SL",
+    "property_type": "Semi-Detached",
+    "bedrooms": 4,
+    "bathrooms": null,
+    "price": 3900,
+    "summary": "*****Corporate let (Inclusive of all bills). Make one monthly payment and we will take care of the rest. Rent includes: Gas, Electricity, WIFI and Council Tax. Leases from as short as a week. ",
+    "estate_agent": "Ayrshire",
+    "features": [],
+    "url": "https://www.rightmove.co.uk/properties/161713637#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e89ea6b6e/161713637/e89ea6b6ec6580cd785ef2f1798b09bb_max_476x317.jpeg",
+    "added_date": "2025-05-09T08:25:23Z"
+  },
+  {
+    "id": "rm_126732350",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Troon",
+    "latitude": 55.54453,
+    "longitude": -4.65494,
+    "address": "St. Meddans Street, Troon, Ayrshire, KA10",
+    "property_type": "Ground Flat",
+    "bedrooms": 2,
+    "bathrooms": null,
+    "price": 750,
+    "summary": "Modern 2 bedroom ground floor apartment adjacent to Troon Railway Station and easy walking distance to beachfront and Troon town centre which includes a range of independent and national shops and a host of cafes, bars and restaurants.",
+    "estate_agent": "Troon",
+    "features": [
+      {
+        "order": 1,
+        "description": "Secure Entry",
+        "htmlDescription": "Secure Entry"
+      },
+      {
+        "order": 2,
+        "description": "Spacious Ground Floor Apartment",
+        "htmlDescription": "Spacious Ground Floor Apartment"
+      },
+      {
+        "order": 3,
+        "description": "Open Plan Lounge/Kitchen/Dining",
+        "htmlDescription": "Open Plan Lounge/Kitchen/Dining "
+      },
+      {
+        "order": 4,
+        "description": "Walking Distance to Troon Town and Troon Train Station",
+        "htmlDescription": "Walking Distance to Troon Town and Troon Train Station"
+      },
+      {
+        "order": 5,
+        "description": "Two Double Bedrooms, One with En-suite",
+        "htmlDescription": "Two Double Bedrooms, One with En-suite"
+      },
+      {
+        "order": 6,
+        "description": "Gas Central Heating",
+        "htmlDescription": "Gas Central Heating"
+      },
+      {
+        "order": 7,
+        "description": "Double Glazing",
+        "htmlDescription": "Double Glazing"
+      },
+      {
+        "order": 8,
+        "description": "Allocated Residents Parking",
+        "htmlDescription": "Allocated Residents Parking"
+      },
+      {
+        "order": 9,
+        "description": "Communal Landscaped Gardens",
+        "htmlDescription": "Communal Landscaped Gardens"
+      },
+      {
+        "order": 10,
+        "description": "EPC C",
+        "htmlDescription": "EPC C"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/126732350#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/34ac73cac/126732350/34ac73cac987fc84f1d135d9134d1249_max_476x317.jpeg",
+    "added_date": "2022-09-05T16:44:38Z"
+  },
+  {
+    "id": "rm_90134330",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Troon",
+    "latitude": 55.54266,
+    "longitude": -4.67098,
+    "address": "Welbeck Crescent, Troon, Ayrshire, KA10",
+    "property_type": "Ground Flat",
+    "bedrooms": 1,
+    "bathrooms": null,
+    "price": 550,
+    "summary": "Traditionally built and well presented One Bedroom Ground Floor Flat.",
+    "estate_agent": "Troon",
+    "features": [
+      {
+        "order": 1,
+        "description": "Good sized well presented Ground Floor Flat",
+        "htmlDescription": "Good sized well presented Ground Floor Flat"
+      },
+      {
+        "order": 2,
+        "description": "Situated in sought after residential area",
+        "htmlDescription": "Situated in sought after residential area"
+      },
+      {
+        "order": 3,
+        "description": "Walking distance to town centre, sea front and Railway Station",
+        "htmlDescription": "Walking distance to town centre, sea front and Railway Station"
+      },
+      {
+        "order": 4,
+        "description": "Decorated in neutral tones throughout",
+        "htmlDescription": "Decorated in neutral tones throughout"
+      },
+      {
+        "order": 5,
+        "description": "Double Glazing",
+        "htmlDescription": "Double Glazing"
+      },
+      {
+        "order": 6,
+        "description": "Gas Central Heating",
+        "htmlDescription": "Gas Central Heating"
+      },
+      {
+        "order": 7,
+        "description": "Modern Kitchen",
+        "htmlDescription": "Modern Kitchen"
+      },
+      {
+        "order": 8,
+        "description": "Modern Bathroom with bath and shower",
+        "htmlDescription": "Modern Bathroom with bath and shower"
+      },
+      {
+        "order": 9,
+        "description": "Council Tax Bank B",
+        "htmlDescription": "Council Tax Bank B"
+      },
+      {
+        "order": 10,
+        "description": "Landlord Registration No. 419231/370/10541",
+        "htmlDescription": "Landlord Registration No. 419231/370/10541"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/90134330#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/62c990936/90134330/62c990936a14dcae5d06956ce2e4e276_max_476x317.JPG",
+    "added_date": "2020-03-05T16:32:51Z"
+  },
+  {
+    "id": "rm_141729929",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Troon",
+    "latitude": 55.53306,
+    "longitude": -4.63261,
+    "address": "Monktonhill Road, Troon, Ayrshire, KA10",
+    "property_type": "Character Property",
+    "bedrooms": 4,
+    "bathrooms": null,
+    "price": 1650,
+    "summary": "Beautifully presented traditional 4-Bedroom residence set over 3 levels and situated within the enviable and highly desirable and sought after area of Southwoods, Troon.",
+    "estate_agent": "Troon",
+    "features": [
+      {
+        "order": 1,
+        "description": "Beautifully presented 4 bedroom property",
+        "htmlDescription": "Beautifully presented 4 bedroom property"
+      },
+      {
+        "order": 2,
+        "description": "neutral decor throughout",
+        "htmlDescription": "neutral decor throughout"
+      },
+      {
+        "order": 3,
+        "description": "private parking",
+        "htmlDescription": "private parking"
+      },
+      {
+        "order": 4,
+        "description": "private garden with summer house",
+        "htmlDescription": "private garden with summer house"
+      },
+      {
+        "order": 5,
+        "description": "Furnished Property",
+        "htmlDescription": "Furnished Property"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/141729929#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/619de5e0e/141729929/619de5e0e5331a530ec4b425fb79fc35_max_476x317.jpeg",
+    "added_date": "2023-11-06T14:49:24Z"
+  },
+  {
+    "id": "rm_170548148",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Troon",
+    "latitude": 55.54308,
+    "longitude": -4.668,
+    "address": "Welbeck Crescent, Troon, Ayrshire, KA10",
+    "property_type": "Ground Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 1250,
+    "summary": "Homesure are of offering to the rental market this two bedroom ground floor flat in the popular seaside town of Troon. All bills are included as well as a fortnightly cleaner. The property is centrally located and within easy reach of amenties, transport links and the beach.",
+    "estate_agent": "Ayrshire",
+    "features": [
+      {
+        "order": 1,
+        "description": "All bills included",
+        "htmlDescription": "All bills included"
+      },
+      {
+        "order": 2,
+        "description": "Fortnightly cleaner included",
+        "htmlDescription": "Fortnightly cleaner included "
+      },
+      {
+        "order": 3,
+        "description": "Ground floor",
+        "htmlDescription": "Ground floor"
+      },
+      {
+        "order": 4,
+        "description": "Two bedrooms",
+        "htmlDescription": "Two bedrooms "
+      },
+      {
+        "order": 5,
+        "description": "Furnished",
+        "htmlDescription": "Furnished "
+      },
+      {
+        "order": 6,
+        "description": "Central location",
+        "htmlDescription": "Central location "
+      },
+      {
+        "order": 7,
+        "description": "Close to transport links and amenities.",
+        "htmlDescription": "Close to transport links and amenities."
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/170548148#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/06fb9b80d/170548148/06fb9b80d0c42bcbd77b10b8f63cb78b_max_476x317.jpeg",
+    "added_date": "2025-12-23T13:53:12Z"
+  },
+  {
+    "id": "rm_161714102",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Troon",
+    "latitude": 55.54364,
+    "longitude": -4.65884,
+    "address": "St. Meddans Street, Troon, Ayrshire, KA10",
+    "property_type": "Ground Flat",
+    "bedrooms": 2,
+    "bathrooms": null,
+    "price": 3000,
+    "summary": "*****Corporate let (Inclusive of all bills). Make one monthly payment and we will take care of the rest. Rent includes: Gas, Electricity, WIFI and Council Tax. Leases from as short as a week. ",
+    "estate_agent": "Ayrshire",
+    "features": [],
+    "url": "https://www.rightmove.co.uk/properties/161714102#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/513463771/161714102/51346377169ffc59b346eb982431cbae_max_476x317.jpeg",
+    "added_date": "2025-05-09T08:47:26Z"
+  },
+  {
+    "id": "rm_161713829",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Troon",
+    "latitude": 55.55663,
+    "longitude": -4.65655,
+    "address": "Barassiebank Lane, Troon, Ayrshire, KA10",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": null,
+    "price": 3000,
+    "summary": "*****Corporate let (Inclusive of all bills). Make one monthly payment and we will take care of the rest. Rent includes: Gas, Electricity, WIFI and Council Tax. Leases from as short as a week. ",
+    "estate_agent": "Ayrshire",
+    "features": [],
+    "url": "https://www.rightmove.co.uk/properties/161713829#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8258ba33e/161713829/8258ba33e1966c8c0b310f0503aa16e0_max_476x317.jpeg",
+    "added_date": "2025-05-09T08:39:10Z"
+  },
+  {
+    "id": "rm_172363607",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Girvan",
+    "latitude": 55.24201,
+    "longitude": -4.84446,
+    "address": "Connor Court, Girvan, South Ayrshire, KA26",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 925,
+    "summary": "Stirling Property Shop are delighted to bring to market this well-proportioned and spacious property located within the quiet residential development of Connor Court, Girvan.",
+    "estate_agent": "Stirling",
+    "features": [
+      {
+        "order": 1,
+        "description": "Gas Central Heating",
+        "htmlDescription": "Gas Central Heating"
+      },
+      {
+        "order": 2,
+        "description": "Private Parking",
+        "htmlDescription": "Private Parking"
+      },
+      {
+        "order": 3,
+        "description": "Private Garden",
+        "htmlDescription": "Private Garden"
+      },
+      {
+        "order": 4,
+        "description": "Large Living Area",
+        "htmlDescription": "Large Living Area"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/172363607#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb8809595/172363607/bb880959523a7e2eaf6f09efc0f8142b_max_476x317.jpeg",
+    "added_date": "2026-02-18T16:33:59Z"
+  },
+  {
+    "id": "rm_173170025",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Girvan",
+    "latitude": 55.278296,
+    "longitude": -4.721754,
+    "address": "Main Street, Dailly",
+    "property_type": "End of Terrace",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 795,
+    "summary": "Stewart Residential are delighted to offer the market a TWO bedroom end terrace with front side and rear gardens, with gas central heating and double glazing throughout.",
+    "estate_agent": "Kilmarnock",
+    "features": [],
+    "url": "https://www.rightmove.co.uk/properties/173170025#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/34fb1bd6c/173170025/34fb1bd6c14e3f12b9526aed0c75d662_max_476x317.jpeg",
+    "added_date": "2026-03-11T17:01:38Z"
+  },
+  {
+    "id": "rm_172621406",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Girvan",
+    "latitude": 55.24119,
+    "longitude": -4.854257,
+    "address": "4 Wesley Place, Girvan, KA26 9DA",
+    "property_type": "Terraced",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "price": 600,
+    "summary": "Bruach property are delighted to introduce to the market 4 Wesley Place, Girvan, a 3-bedroom mid terrace house ideally located within close proximity to the town centre and local schooling. The property is in walk-in condition and offers flexible accommodation over two levels making it suitable t...",
+    "estate_agent": "Girvan",
+    "features": [
+      {
+        "order": 1,
+        "description": "Living Room",
+        "htmlDescription": "Living Room"
+      },
+      {
+        "order": 2,
+        "description": "Modern Kitchen",
+        "htmlDescription": "Modern Kitchen"
+      },
+      {
+        "order": 3,
+        "description": "Modern Bathroom",
+        "htmlDescription": "Modern Bathroom"
+      },
+      {
+        "order": 4,
+        "description": "2 Double Bedrooms",
+        "htmlDescription": "2 Double Bedrooms"
+      },
+      {
+        "order": 5,
+        "description": "Single Bedroom",
+        "htmlDescription": "Single Bedroom"
+      },
+      {
+        "order": 6,
+        "description": "Walk-in Condition",
+        "htmlDescription": "Walk-in Condition"
+      },
+      {
+        "order": 7,
+        "description": "New Double Galzing",
+        "htmlDescription": "New Double Galzing"
+      },
+      {
+        "order": 8,
+        "description": "New Bolier",
+        "htmlDescription": "New Bolier"
+      },
+      {
+        "order": 9,
+        "description": "Garden",
+        "htmlDescription": "Garden"
+      },
+      {
+        "order": 10,
+        "description": "Landlord Reg: 431421/370/27041",
+        "htmlDescription": "Landlord Reg: 431421/370/27041"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/172621406#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef5280275/172621406/ef52802751f469ad833b65df9d2ad9cf_max_476x317.jpeg",
+    "added_date": "2026-02-26T15:10:42Z"
+  },
+  {
+    "id": "rm_172803887",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Girvan",
+    "latitude": 55.24424,
+    "longitude": -4.84902,
+    "address": "Troweir Road, Girvan, South Ayrshire, KA26",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 610,
+    "summary": "We are pleased to present this 2-bedroom ground floor flat to the rent market. Presented in walk-in condition consisting of 2 double bedrooms, spacious lounge, modern kitchen and shower room.",
+    "estate_agent": "Prestwick",
+    "features": [],
+    "url": "https://www.rightmove.co.uk/properties/172803887#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/64545f6fb/172803887/64545f6fbdf55249d4c18d2051074841_max_476x317.jpeg",
+    "added_date": "2026-03-03T11:12:18Z"
+  },
+  {
+    "id": "rm_158777351",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Girvan",
+    "latitude": 55.24198,
+    "longitude": -4.858961,
+    "address": "39c Cluny Court, Girvan, KA26 9AD",
+    "property_type": "Flat",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 420,
+    "summary": "Bruach Property are delighted to offer to let this well presented spacious one bedroom first floor flat situated in Cluny Court, Alisa Street West, in the heart of Girvan. Within walking distance of the train station and a minutes walk away from the beach.",
+    "estate_agent": "Girvan",
+    "features": [
+      {
+        "order": 1,
+        "description": "Living Room",
+        "htmlDescription": "Living Room"
+      },
+      {
+        "order": 2,
+        "description": "Open Plan Living/Kitchen",
+        "htmlDescription": "Open Plan Living/Kitchen"
+      },
+      {
+        "order": 3,
+        "description": "Bathroom",
+        "htmlDescription": "Bathroom"
+      },
+      {
+        "order": 4,
+        "description": "Bedroom",
+        "htmlDescription": "Bedroom"
+      },
+      {
+        "order": 5,
+        "description": "Double Glazing",
+        "htmlDescription": "Double Glazing"
+      },
+      {
+        "order": 6,
+        "description": "Secure Entrance",
+        "htmlDescription": "Secure Entrance"
+      },
+      {
+        "order": 7,
+        "description": "Unfurnished",
+        "htmlDescription": "Unfurnished"
+      },
+      {
+        "order": 8,
+        "description": "Off Street Parking",
+        "htmlDescription": "Off Street Parking"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/158777351#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2c58d5b0d/158777351/2c58d5b0dd8defb881ca265b5120f152_max_476x317.jpeg",
+    "added_date": "2025-02-27T13:05:20Z"
+  },
+  {
+    "id": "rm_170641022",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Maybole",
+    "latitude": 55.354776,
+    "longitude": -4.682177,
+    "address": "Castle Street, Maybole, KA19",
+    "property_type": "Flat",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "price": 700,
+    "summary": "A well-presented three-bedroom first-floor flat, offered fully furnished and maintained to a very good standard, located within the heart of Maybole",
+    "estate_agent": "Scotland",
+    "features": [
+      {
+        "order": 1,
+        "description": "Two Reception Rooms",
+        "htmlDescription": "Two Reception Rooms"
+      },
+      {
+        "order": 2,
+        "description": "Village Centre Location",
+        "htmlDescription": "Village Centre Location"
+      },
+      {
+        "order": 3,
+        "description": "First Floor",
+        "htmlDescription": "First Floor"
+      },
+      {
+        "order": 4,
+        "description": "Two Double, One Sinlgle Bedroom",
+        "htmlDescription": "Two Double, One Sinlgle Bedroom"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/170641022#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/91f04dcc4/170641022/91f04dcc4f0c86c6391f033bc9c38d84_max_476x317.jpeg",
+    "added_date": "2025-12-26T11:57:56Z"
+  },
+  {
+    "id": "rm_173467400",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Kilmarnock",
+    "latitude": 55.59997,
+    "longitude": -4.50215,
+    "address": "3 Fairyhill Road, Kilmarnock, East Ayrshire, KA1",
+    "property_type": "Flat",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 495,
+    "summary": "This well-presented 1-bedroom ground floor flat offers comfortable living in a quiet residential area of Kilmarnock. Perfect for a single professional or couple. Early viewing recommended.",
+    "estate_agent": "Prestwick",
+    "features": [],
+    "url": "https://www.rightmove.co.uk/properties/173467400#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/677d2e532/173467400/677d2e53209df6faa337907ecb8044cf_max_476x317.jpeg",
+    "added_date": "2026-03-19T11:19:40Z"
+  },
+  {
+    "id": "rm_173420879",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Kilmarnock",
+    "latitude": 55.61052,
+    "longitude": -4.50505,
+    "address": "North Hamilton Street, Kilmarnock, East Ayrshire, KA1",
+    "property_type": "Flat",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 550,
+    "summary": "This modern, one bedroom, fully furnished property is situated in a contemporary development. Boasts a bright, neutral decor - a perfect canvas!",
+    "estate_agent": "Glasgow",
+    "features": [
+      {
+        "order": 1,
+        "description": "Double glazing",
+        "htmlDescription": "Double glazing"
+      },
+      {
+        "order": 2,
+        "description": "Shower",
+        "htmlDescription": "Shower"
+      },
+      {
+        "order": 3,
+        "description": "Washing machine",
+        "htmlDescription": "Washing machine"
+      },
+      {
+        "order": 4,
+        "description": "Fridge Freezer",
+        "htmlDescription": "Fridge Freezer"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173420879#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/05eb00d4b/173420879/05eb00d4b363682d723fbc8a33b7e3f3_max_476x317.jpeg",
+    "added_date": "2026-03-18T11:19:23Z"
+  },
+  {
+    "id": "rm_173401955",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Kilmarnock",
+    "latitude": 55.61103,
+    "longitude": -4.50635,
+    "address": "Fullerton Street , Kilmarnock, Ayrshire , KA1 2QT",
+    "property_type": "Flat",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 595,
+    "summary": "****3D Virtual Video Tour Available **** Mitchells Sales and lettings Ayrshire are delighted to market for rent this immaculate fully refurbished one bedroom apartment .  Welcome to  Fullarton Street Kilmarnock and this delightful one-bedroom sandstone  upper flat perfectly positioned on th...",
+    "estate_agent": "Glasgow",
+    "features": [
+      {
+        "order": 1,
+        "description": "Presented to the market in walk in condition after a complete refurbishment program",
+        "htmlDescription": "Presented to the market in walk in condition after a complete refurbishment program"
+      },
+      {
+        "order": 2,
+        "description": "Traditional Upper Apartment located within a red sandstone building",
+        "htmlDescription": "Traditional Upper Apartment located within a red sandstone building"
+      },
+      {
+        "order": 3,
+        "description": "Bright rear facing lounge with kitchen off",
+        "htmlDescription": "Bright rear facing lounge with kitchen off"
+      },
+      {
+        "order": 4,
+        "description": "Modern Kitchen",
+        "htmlDescription": "Modern Kitchen"
+      },
+      {
+        "order": 5,
+        "description": "Front facing Double Bedroom",
+        "htmlDescription": "Front facing Double Bedroom"
+      },
+      {
+        "order": 6,
+        "description": "Modern shower room with 3 piece suite",
+        "htmlDescription": "Modern shower room with 3 piece suite"
+      },
+      {
+        "order": 7,
+        "description": "Gas Central Heating , Double Glazing ,",
+        "htmlDescription": "Gas Central Heating , Double Glazing ,"
+      },
+      {
+        "order": 8,
+        "description": "Tidy freshly decorated communal areas",
+        "htmlDescription": "Tidy freshly decorated communal areas"
+      },
+      {
+        "order": 9,
+        "description": "Viewing a must to avoid disappointment",
+        "htmlDescription": "Viewing a must to avoid disappointment"
+      },
+      {
+        "order": 10,
+        "description": "Register your interest now",
+        "htmlDescription": "Register your interest now"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173401955#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/166b687f9/173401955/166b687f9f5b358fad32079a6d8018df_max_476x317.png",
+    "added_date": "2026-03-17T15:54:47Z"
+  },
+  {
+    "id": "rm_173229431",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Kilmarnock",
+    "latitude": 55.60639,
+    "longitude": -4.50494,
+    "address": "Charles Place, Kilmarnock, East Ayrshire, KA1",
+    "property_type": "Flat",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 550,
+    "summary": "Well presented 1 bedroom 1st floor flat, situated in the heart of Kilmarnock. Viewing recommended.",
+    "estate_agent": "Prestwick",
+    "features": [
+      {
+        "order": 1,
+        "description": "1st Floor Flat",
+        "htmlDescription": "1st Floor Flat"
+      },
+      {
+        "order": 2,
+        "description": "Unfurnished",
+        "htmlDescription": "Unfurnished"
+      },
+      {
+        "order": 3,
+        "description": "Spacious Lounge",
+        "htmlDescription": "Spacious Lounge"
+      },
+      {
+        "order": 4,
+        "description": "Modern Bathroom",
+        "htmlDescription": "Modern Bathroom"
+      },
+      {
+        "order": 5,
+        "description": "Double Bedroom",
+        "htmlDescription": "Double Bedroom"
+      },
+      {
+        "order": 6,
+        "description": "Gas Central Heating",
+        "htmlDescription": "Gas Central Heating"
+      },
+      {
+        "order": 7,
+        "description": "Viewing Recommended",
+        "htmlDescription": "Viewing Recommended"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173229431#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0b9641b2f/173229431/0b9641b2f26fd2e31078d85af4318b80_max_476x317.jpeg",
+    "added_date": "2026-03-13T08:12:01Z"
+  },
+  {
+    "id": "rm_134556776",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Kilmarnock",
+    "latitude": 55.60546,
+    "longitude": -4.49691,
+    "address": "Titchfield Street, Kilmarnock, Ayrshire, KA1",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 650,
+    "summary": "Glow Homes are delighted to present this modern apartment located in a perfect spot for all local amenities. ",
+    "estate_agent": "Saltcoats",
+    "features": [
+      {
+        "order": 1,
+        "description": "Top Floor Apartment",
+        "htmlDescription": "Top Floor Apartment"
+      },
+      {
+        "order": 2,
+        "description": "Well Maintained Building & Central Location in Kilmarnock",
+        "htmlDescription": "Well Maintained Building & Central Location in Kilmarnock"
+      },
+      {
+        "order": 3,
+        "description": "2 Double Bedrooms",
+        "htmlDescription": "2 Double Bedrooms "
+      },
+      {
+        "order": 4,
+        "description": "Lounge",
+        "htmlDescription": "Lounge"
+      },
+      {
+        "order": 5,
+        "description": "Kitchen",
+        "htmlDescription": "Kitchen"
+      },
+      {
+        "order": 6,
+        "description": "Bathroom",
+        "htmlDescription": "Bathroom"
+      },
+      {
+        "order": 7,
+        "description": "Close to Local Amenities",
+        "htmlDescription": "Close to Local Amenities "
+      },
+      {
+        "order": 8,
+        "description": "Neutral Decor",
+        "htmlDescription": "Neutral Decor "
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/134556776#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b98f27cc6/134556776/b98f27cc6112ec0259310d05d0684363_max_476x317.jpeg",
+    "added_date": "2023-05-08T13:24:00Z"
+  },
+  {
+    "id": "rm_173116115",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Kilmarnock",
+    "latitude": 55.611463,
+    "longitude": -4.504197,
+    "address": "Barclay House, West Langlands Street, Kilmarnock, KA1",
+    "property_type": "Flat",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 650,
+    "summary": "! COMING SOON - AVAILABLE APRIL 2026 - VIEWINGS TO BEGIN FIRST WEEK OF APRIL !\nRentLocally are pleased to present to the market, this fully furnished 1-bedroom property to let at Barclay House in Kilmarnock. EPC: C. Landlord registration number: 1393246/190/29032",
+    "estate_agent": "Hamilton",
+    "features": [],
+    "url": "https://www.rightmove.co.uk/properties/173116115#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1196db76d/173116115/1196db76d95976be5900e341c36569e3_max_476x317.jpeg",
+    "added_date": "2026-03-10T16:06:48Z"
+  },
+  {
+    "id": "rm_173303759",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Kilmarnock",
+    "latitude": 55.622814,
+    "longitude": -4.498878,
+    "address": "Ardbeg Avenue, Kilmarnock, KA3",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 685,
+    "summary": "We are delighted to offer onto the market this fully refurbished two bedroom spacious flat within a quiet area of Kilmarnock. The flat is completely new throughout. New double glazing, new carp... ** Property Reference: 2819436 **",
+    "estate_agent": "London",
+    "features": [
+      {
+        "order": 1,
+        "description": "No Agent Fees",
+        "htmlDescription": "No Agent Fees"
+      },
+      {
+        "order": 2,
+        "description": "Students Can Enquire",
+        "htmlDescription": "Students Can Enquire"
+      },
+      {
+        "order": 3,
+        "description": "Property Reference Number: 2819436",
+        "htmlDescription": "Property Reference Number: 2819436"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173303759#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4f34f0899/173303759/4f34f0899a1463c32159cbd4925aa866_max_476x317.jpeg",
+    "added_date": "2026-03-14T17:06:22Z"
+  },
+  {
+    "id": "rm_173117990",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Kilmarnock",
+    "latitude": 55.60616,
+    "longitude": -4.49858,
+    "address": "Waterside Street, Kilmarnock",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 700,
+    "summary": "24-7 Property Scotland Ltd are delighted to bring to the market this upper floor two bedroom property in Kilmarnock The property comprises of a Large Lounge, Two Double Bedrooms , Fitted Kitchen, and Fitted Bathroom with walk in shower Further benefits are Double Glazing Windows. The property ...",
+    "estate_agent": "Glasgow",
+    "features": [
+      {
+        "order": 1,
+        "description": "Double Glazing",
+        "htmlDescription": "Double Glazing "
+      },
+      {
+        "order": 2,
+        "description": "Electric Heating",
+        "htmlDescription": "Electric Heating "
+      },
+      {
+        "order": 3,
+        "description": "Double Bedrooms",
+        "htmlDescription": "Double Bedrooms "
+      },
+      {
+        "order": 4,
+        "description": "On Street Parking",
+        "htmlDescription": "On Street Parking "
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173117990#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0011866c8/173117990/0011866c89a449b95101c296bdf7b6db_max_476x317.jpeg",
+    "added_date": "2026-03-13T11:32:36Z"
+  },
+  {
+    "id": "rm_87637098",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Kilmarnock",
+    "latitude": 55.60049,
+    "longitude": -4.50314,
+    "address": "Barbados Road, Kilmarnock",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 725,
+    "summary": "This unfurnished two-bedroom flat is available to let in central Kilmarnock, offering convenient access to public transport, local amenities and nearby green spaces.\n",
+    "estate_agent": "Ayr",
+    "features": [
+      {
+        "order": 1,
+        "description": "Excellent order",
+        "htmlDescription": "Excellent order"
+      },
+      {
+        "order": 2,
+        "description": "Spacious",
+        "htmlDescription": "Spacious"
+      },
+      {
+        "order": 3,
+        "description": "Upper Floor",
+        "htmlDescription": "Upper Floor"
+      },
+      {
+        "order": 4,
+        "description": "Freshly decorated",
+        "htmlDescription": "Freshly decorated"
+      },
+      {
+        "order": 5,
+        "description": "Gas Central Heating",
+        "htmlDescription": "Gas Central Heating"
+      },
+      {
+        "order": 6,
+        "description": "Shower room",
+        "htmlDescription": "Shower room"
+      },
+      {
+        "order": 7,
+        "description": "Close to amenities",
+        "htmlDescription": "Close to amenities "
+      },
+      {
+        "order": 8,
+        "description": "On street Parking",
+        "htmlDescription": "On street Parking"
+      },
+      {
+        "order": 9,
+        "description": "Close To Schooling",
+        "htmlDescription": "Close To Schooling"
+      },
+      {
+        "order": 10,
+        "description": "Viewings Recommended",
+        "htmlDescription": "Viewings Recommended"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/87637098#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a71b175cb/87637098/a71b175cbf34d9bcd8ecd76218190346_max_476x317.jpeg",
+    "added_date": "2026-02-24T10:45:35Z"
+  },
+  {
+    "id": "rm_172415735",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Kilmarnock",
+    "latitude": 55.586033,
+    "longitude": -4.504731,
+    "address": "Marchdyke Crescent, Kilmarnock, KA1",
+    "property_type": "Terraced",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 650,
+    "summary": "We are proud to offer this delightful 2 bedroom, 1 bathroom terraced house in a great location. Available to move in from 09 March 2026, this property benefits from garden access. Property is off... ** Property Reference: 2798066 **",
+    "estate_agent": "London",
+    "features": [
+      {
+        "order": 1,
+        "description": "No Agent Fees",
+        "htmlDescription": "No Agent Fees"
+      },
+      {
+        "order": 2,
+        "description": "Property Reference Number: 2798066",
+        "htmlDescription": "Property Reference Number: 2798066"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/172415735#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/27aed125b/172415735/27aed125b75001e8eaed1396c4264912_max_476x317.jpeg",
+    "added_date": "2026-02-19T18:24:47Z"
+  },
+  {
+    "id": "rm_172803899",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Kilmarnock",
+    "latitude": 55.61203,
+    "longitude": -4.51038,
+    "address": "Yorke Place, Bonnyton Road, Kilmarnock, East Ayrshire, KA1",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 580,
+    "summary": "Recently refurbished 2 bedroom upper flat, situated in a residential area, close to the town centre of Kilmarnock. Viewing recommended.",
+    "estate_agent": "Prestwick",
+    "features": [
+      {
+        "order": 1,
+        "description": "1st Floor Flat",
+        "htmlDescription": "1st Floor Flat"
+      },
+      {
+        "order": 2,
+        "description": "2 Double Bedrooms",
+        "htmlDescription": "2 Double Bedrooms"
+      },
+      {
+        "order": 3,
+        "description": "Spacious Lounge",
+        "htmlDescription": "Spacious Lounge"
+      },
+      {
+        "order": 4,
+        "description": "Fitted Kitchen",
+        "htmlDescription": "Fitted Kitchen"
+      },
+      {
+        "order": 5,
+        "description": "3 Piece Bathroom",
+        "htmlDescription": "3 Piece Bathroom"
+      },
+      {
+        "order": 6,
+        "description": "Gas Central Heating",
+        "htmlDescription": "Gas Central Heating"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/172803899#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ed7b52d80/172803899/ed7b52d80c6c088a5c5b8daf8a2c87aa_max_476x317.jpeg",
+    "added_date": "2026-03-03T11:12:22Z"
+  },
+  {
+    "id": "rm_172920395",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Kilmarnock",
+    "latitude": 55.60933,
+    "longitude": -4.51466,
+    "address": "Grange Terrace, Kilmarnock, East Ayrshire, KA1",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 750,
+    "summary": "New to market, 2 bedroom upper flat, situated in a most desirable area of Kilmarnock. Viewing highly recommended.",
+    "estate_agent": "Prestwick",
+    "features": [
+      {
+        "order": 1,
+        "description": "1st Floor Flat",
+        "htmlDescription": "1st Floor Flat"
+      },
+      {
+        "order": 2,
+        "description": "Unfurnished",
+        "htmlDescription": "Unfurnished"
+      },
+      {
+        "order": 3,
+        "description": "Recently Refurbished",
+        "htmlDescription": "Recently Refurbished"
+      },
+      {
+        "order": 4,
+        "description": "Gas Central Heating",
+        "htmlDescription": "Gas Central Heating"
+      },
+      {
+        "order": 5,
+        "description": "Garage Included",
+        "htmlDescription": "Garage Included"
+      },
+      {
+        "order": 6,
+        "description": "Viewing Recommended",
+        "htmlDescription": "Viewing Recommended"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/172920395#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf865a601/172920395/bf865a6016b43a189d7e039d28d12703_max_476x317.jpeg",
+    "added_date": "2026-03-05T14:23:51Z"
+  },
+  {
+    "id": "rm_170020556",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Kilmarnock",
+    "latitude": 55.612999,
+    "longitude": -4.515417,
+    "address": "Kilmarnock, KA1, Bonnyton Road, P2016",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 595,
+    "summary": "Landlord Direct are delighted to present this 2 Bedroom first floor flat to let, in a highly sought after area just on the outskirts of Kilmarnock Town Centre, within walking distance of local amenities. Comprised of a reception room, practical sized kitchen, two bedrooms and a bathroom. The pro...",
+    "estate_agent": "West Bridgford",
+    "features": [
+      {
+        "order": 1,
+        "description": "Flat",
+        "htmlDescription": "Flat"
+      },
+      {
+        "order": 2,
+        "description": "Unfurnished Property",
+        "htmlDescription": "Unfurnished Property"
+      },
+      {
+        "order": 3,
+        "description": "2 Bedrooms",
+        "htmlDescription": "2 Bedrooms"
+      },
+      {
+        "order": 4,
+        "description": "1 Reception",
+        "htmlDescription": "1 Reception"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/170020556#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a688dacdd/170020556/a688dacdd4d2c8f6870fc748aa5edef6_max_476x317.jpeg",
+    "added_date": "2025-12-04T17:25:46Z"
+  },
+  {
+    "id": "rm_170846171",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Cumnock",
+    "latitude": 55.44371,
+    "longitude": -4.25001,
+    "address": "Netherthird Road, Cumnock, Ayrshire, KA18",
+    "property_type": "Flat",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "price": 625,
+    "summary": "Beautiful unfurnished 3 bed lower cottage flat with private gardens located in the popular location of Cumnock Ayrshire..",
+    "estate_agent": "Glasgow",
+    "features": [
+      {
+        "order": 1,
+        "description": "Beautifully fitted kitchen (white goods included)",
+        "htmlDescription": "Beautifully fitted kitchen (white goods included)"
+      },
+      {
+        "order": 2,
+        "description": "Carpets throughout",
+        "htmlDescription": "Carpets throughout"
+      },
+      {
+        "order": 3,
+        "description": "3 large double bedrooms",
+        "htmlDescription": "3 large double bedrooms"
+      },
+      {
+        "order": 4,
+        "description": "Private gardens",
+        "htmlDescription": "Private gardens"
+      },
+      {
+        "order": 5,
+        "description": "Unfurnished",
+        "htmlDescription": "Unfurnished"
+      },
+      {
+        "order": 6,
+        "description": "Double glazing",
+        "htmlDescription": "Double glazing"
+      },
+      {
+        "order": 7,
+        "description": "Lovely village setting",
+        "htmlDescription": "Lovely village setting"
+      },
+      {
+        "order": 8,
+        "description": "Viewing essential",
+        "htmlDescription": "Viewing essential"
+      },
+      {
+        "order": 9,
+        "description": "Lower cottage flat",
+        "htmlDescription": "Lower cottage flat"
+      },
+      {
+        "order": 10,
+        "description": "Viewing essential to appreciate the value for money",
+        "htmlDescription": "Viewing essential to appreciate the value for money"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/170846171#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/67916fb54/170846171/67916fb543ba2abdf8d47cf7cf719c09_max_476x317.jpeg",
+    "added_date": "2026-01-05T15:30:54Z"
+  },
+  {
+    "id": "rm_173386415",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Cumnock",
+    "latitude": 55.45298,
+    "longitude": -4.250599,
+    "address": "Walker Court, Cumnock, KA18",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 445,
+    "summary": "A spacious two bed apartment positioned in a popular block of flats situated in the town of Cumnock, Scotland. The apartment has the benefit of a spacious lounge and kitchen, 2 double bedrooms and... ** Property Reference: 2829197 **",
+    "estate_agent": "London",
+    "features": [
+      {
+        "order": 1,
+        "description": "No Agent Fees",
+        "htmlDescription": "No Agent Fees"
+      },
+      {
+        "order": 2,
+        "description": "Students Can Enquire",
+        "htmlDescription": "Students Can Enquire"
+      },
+      {
+        "order": 3,
+        "description": "Property Reference Number: 2829197",
+        "htmlDescription": "Property Reference Number: 2829197"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173386415#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aa05d91ee/173386415/aa05d91eee7b2c9bb0c4ea171fa0c79b_max_476x317.jpeg",
+    "added_date": "2026-03-17T12:34:10Z"
+  },
+  {
+    "id": "rm_86783304",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Cumnock",
+    "latitude": 55.45475,
+    "longitude": -4.25772,
+    "address": "Elizabeth Crescent, Cumnock, Ayrshire, KA18",
+    "property_type": "Terraced",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "price": 650,
+    "summary": "This spacious well presented three-double-bedroom family home features a dual-entrance layout leading to a large lounge and a fitted dining kitchen with utility access, complemented by a fully enclosed rear garden with both patio and lawnLandlord Reg: 522332/190/24042 Letting Reg: LARN2512006 EPC C",
+    "estate_agent": "Cumnock",
+    "features": [
+      {
+        "order": 1,
+        "description": "Dual Front Entrances: Practical access via the utility or main hallway",
+        "htmlDescription": "Dual Front Entrances: Practical access via the utility or main hallway"
+      },
+      {
+        "order": 2,
+        "description": "Spacious Living: Large lounge and an open-plan kitchen/dining area",
+        "htmlDescription": "Spacious Living: Large lounge and an open-plan kitchen/dining area"
+      },
+      {
+        "order": 3,
+        "description": "Three Double Bedrooms: Ample space for the whole family.",
+        "htmlDescription": "Three Double Bedrooms: Ample space for the whole family."
+      },
+      {
+        "order": 4,
+        "description": "Private Outdoor Space: Enclosed rear garden with both lawn and patio.Excellent Storage: Integrated solutions throughout the home.",
+        "htmlDescription": "Private Outdoor Space: Enclosed rear garden with both lawn and patio.Excellent Storage: Integrated solutions throughout the home."
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/86783304#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e8a79fe7e/86783304/e8a79fe7ea9324bb56f2d7c2c93a928d_max_476x317.jpeg",
+    "added_date": "2024-03-06T12:55:53Z"
+  },
+  {
+    "id": "rm_69461093",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Cumnock",
+    "latitude": 55.44949,
+    "longitude": -4.2535,
+    "address": "River View, Cumnock, Ayrshire, KA18",
+    "property_type": "Terraced",
+    "bedrooms": 3,
+    "bathrooms": null,
+    "price": 675,
+    "summary": "**EMAIL ENQUIRIES ONLY** This UNFURNISHED TERRACED VILLA is located in CUMNOCK. The property is in a popular residential area. GCH. Garden.",
+    "estate_agent": "Ayr",
+    "features": [
+      {
+        "order": 1,
+        "description": "Terraced Villa",
+        "htmlDescription": "Terraced Villa"
+      },
+      {
+        "order": 2,
+        "description": "Located in Cumnock",
+        "htmlDescription": "Located in Cumnock"
+      },
+      {
+        "order": 3,
+        "description": "Garden",
+        "htmlDescription": "Garden"
+      },
+      {
+        "order": 4,
+        "description": "GCH",
+        "htmlDescription": "GCH"
+      },
+      {
+        "order": 5,
+        "description": "Pets considered",
+        "htmlDescription": "Pets considered"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/69461093#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/643007a0f/69461093/643007a0febec115b0fdc12120809f3a_max_476x317.jpeg",
+    "added_date": "2017-10-17T09:31:27Z"
+  },
+  {
+    "id": "rm_172803818",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Cumnock",
+    "latitude": 55.45367,
+    "longitude": -4.26513,
+    "address": "Glaisnock Street, Cumnock, East Ayrshire, KA18",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 450,
+    "summary": "This bright and roomy flat offers two generous bedrooms, a modern fitted kitchen, and a bathroom with both a bath and electric shower. High ceilings and spacious rooms throughout give a light, airy feel, making it a comfortable home in a great location.",
+    "estate_agent": "Prestwick",
+    "features": [],
+    "url": "https://www.rightmove.co.uk/properties/172803818#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c193f10d4/172803818/c193f10d43abd1c4c61ba2e3b271c5f2_max_476x317.jpeg",
+    "added_date": "2026-03-03T11:11:50Z"
+  },
+  {
+    "id": "rm_173466662",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Irvine",
+    "latitude": 55.61284,
+    "longitude": -4.6594,
+    "address": "Broomlands Place, Irvine, North Ayrshire, KA12",
+    "property_type": "Flat",
+    "bedrooms": 1,
+    "bathrooms": 0,
+    "price": 495,
+    "summary": "This flat is ideally located to enjoy everything Irvine has to offer. Only a short drive to Irvine Beach, A76, Shopping park and town centre. All room sizes are of a good proportion and the accommodation newly decorated.",
+    "estate_agent": "Prestwick",
+    "features": [
+      {
+        "order": 1,
+        "description": "Attractive Ground Floor Flat",
+        "htmlDescription": "Attractive Ground Floor Flat"
+      },
+      {
+        "order": 2,
+        "description": "Great Town Centre Location",
+        "htmlDescription": "Great Town Centre Location"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173466662#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f86eceda3/173466662/f86eceda3588ee789d2401f9cb912ec9_max_476x317.jpeg",
+    "added_date": "2026-03-19T11:10:58Z"
+  },
+  {
+    "id": "rm_173444573",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Irvine",
+    "latitude": 55.628097,
+    "longitude": -4.670405,
+    "address": "49 Dickson Drive, Irvine, KA12 9AB",
+    "property_type": "Flat",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 600,
+    "summary": "Charming 1-bed first-floor flat with balcony overlooking communal gardens in a peaceful block of four.",
+    "estate_agent": "Ayr",
+    "features": [
+      {
+        "order": 1,
+        "description": "First-floor, one bedroom flat",
+        "htmlDescription": "First-floor, one bedroom flat"
+      },
+      {
+        "order": 2,
+        "description": "Private balcony",
+        "htmlDescription": "Private balcony"
+      },
+      {
+        "order": 3,
+        "description": "Peaceful residential setting with only four units for a quieter atmosphere.",
+        "htmlDescription": "Peaceful residential setting with only four units for a quieter atmosphere."
+      },
+      {
+        "order": 4,
+        "description": "Excellent proximity to primary and secondary schools.",
+        "htmlDescription": "Excellent proximity to primary and secondary schools."
+      },
+      {
+        "order": 5,
+        "description": "Convenient access to local healthcare facilities.",
+        "htmlDescription": "Convenient access to local healthcare facilities."
+      },
+      {
+        "order": 6,
+        "description": "Excellent proximity to primary and secondary schools",
+        "htmlDescription": "Excellent proximity to primary and secondary schools"
+      },
+      {
+        "order": 7,
+        "description": "Near Irvine train station for easy commuting.",
+        "htmlDescription": "Near Irvine train station for easy commuting."
+      },
+      {
+        "order": 8,
+        "description": "1797514/310/13022",
+        "htmlDescription": "1797514/310/13022"
+      },
+      {
+        "order": 9,
+        "description": "LARN1905060",
+        "htmlDescription": "LARN1905060"
+      },
+      {
+        "order": 10,
+        "description": "Driveway",
+        "htmlDescription": "Driveway"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173444573#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9a4d418c3/173444573/9a4d418c3ad927c2a104a623f4a41f33_max_476x317.jpeg",
+    "added_date": "2026-03-18T16:57:29Z"
+  },
+  {
+    "id": "rm_87692037",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Irvine",
+    "latitude": 55.605816,
+    "longitude": -4.622942,
+    "address": "Dreghorn, Irvine, KA11",
+    "property_type": "Flat",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 495,
+    "summary": "One bedroom flat in quiet secure block. The property is on the second floor of a three story block and comprises of entrance hall, lounge, bedroom, kitchen and bathroom. The building has recently... ** Property Reference: 2831492 **",
+    "estate_agent": "London",
+    "features": [
+      {
+        "order": 1,
+        "description": "No Agent Fees",
+        "htmlDescription": "No Agent Fees"
+      },
+      {
+        "order": 2,
+        "description": "Property Reference Number: 2831492",
+        "htmlDescription": "Property Reference Number: 2831492"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/87692037#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/570b537a5/87692037/570b537a54411ce42fd94d17b06af0c1_max_476x317.jpeg",
+    "added_date": "2026-03-17T19:19:24Z"
+  },
+  {
+    "id": "rm_173084768",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Irvine",
+    "latitude": 55.61232,
+    "longitude": -4.65857,
+    "address": "Broomlands Drive, Irvine, North Ayrshire, KA12",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 625,
+    "summary": "Well presented 2 bedroom ground floor flat situated in a popular residential area, situated close to Irvine town centre. Viewing recommended.",
+    "estate_agent": "Prestwick",
+    "features": [
+      {
+        "order": 1,
+        "description": "Double glazing",
+        "htmlDescription": "Double glazing"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173084768#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/830afa337/173084768/830afa337af1c3a348cd27fb58cbe72f_max_476x317.jpeg",
+    "added_date": "2026-03-10T09:43:01Z"
+  },
+  {
+    "id": "rm_172756775",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Irvine",
+    "latitude": 55.61399,
+    "longitude": -4.58896,
+    "address": "Main Road, Springside, KA11",
+    "property_type": "Flat",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 525,
+    "summary": "Lox Property are pleased to bring to market this fantastic main door access 1 bedroom flat in the village of Springside, North Ayrshire. Great local transport links. GCH/DG",
+    "estate_agent": "Prestwick",
+    "features": [
+      {
+        "order": 1,
+        "description": "Double glazing",
+        "htmlDescription": "Double glazing"
+      },
+      {
+        "order": 2,
+        "description": "Shower",
+        "htmlDescription": "Shower"
+      },
+      {
+        "order": 3,
+        "description": "Burglar alarm",
+        "htmlDescription": "Burglar alarm"
+      },
+      {
+        "order": 4,
+        "description": "Washing machine",
+        "htmlDescription": "Washing machine"
+      },
+      {
+        "order": 5,
+        "description": "Tumble dryer",
+        "htmlDescription": "Tumble dryer"
+      },
+      {
+        "order": 6,
+        "description": "Fridge Freezer",
+        "htmlDescription": "Fridge Freezer"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/172756775#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3c364b1e1/172756775/3c364b1e1040c130b5b3291559a4163b_max_476x317.jpeg",
+    "added_date": "2026-03-02T12:23:24Z"
+  },
+  {
+    "id": "rm_172803785",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Irvine",
+    "latitude": 55.61618,
+    "longitude": -4.66296,
+    "address": "Bank Street, Irvine, North Ayrshire, KA12",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "price": 695,
+    "summary": "A well-presented two-bedroom flat in the heart of Irvine town centre, featuring a bright open-plan living room and kitchen. The property offers two comfortable bedrooms, one with a private en-suite, plus a modern family bathroom. Ideally located close to shops, transport links, and local amenities.",
+    "estate_agent": "Prestwick",
+    "features": [],
+    "url": "https://www.rightmove.co.uk/properties/172803785#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f3c44d804/172803785/f3c44d804215b313dcf0786beb5ef050_max_476x317.jpeg",
+    "added_date": "2026-03-03T11:11:42Z"
+  },
+  {
+    "id": "rm_172803878",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Irvine",
+    "latitude": 55.61619,
+    "longitude": -4.66233,
+    "address": "Shawholm Gardens, Irvine, North Ayrshire, KA12",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 725,
+    "summary": "Lomond present an elegant two-bedroom apartment located in the heart of Irvine town centre, finished to a high standard throughout. The property boasts a stylish open-plan living and kitchen space, two generously sized bedrooms including a refined en-suite to the principal bedroom, and a contempo...",
+    "estate_agent": "Prestwick",
+    "features": [],
+    "url": "https://www.rightmove.co.uk/properties/172803878#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/28d36cf5f/172803878/28d36cf5f4e400da0ade389db8dd4d9e_max_476x317.jpeg",
+    "added_date": "2026-03-03T11:12:16Z"
+  },
+  {
+    "id": "rm_173139596",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Irvine",
+    "latitude": 55.62858,
+    "longitude": -4.668651,
+    "address": "Doura Place, Irvine, KA12",
+    "property_type": "Terraced",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 625,
+    "summary": "We are proud to offer this delightful 2 bedroom, 1 bathroom terraced house in a great location. Available to move in from 12 February 2026, this property benefits from garden access. Property is... ** Property Reference: 2792740 **",
+    "estate_agent": "London",
+    "features": [
+      {
+        "order": 1,
+        "description": "No Agent Fees",
+        "htmlDescription": "No Agent Fees"
+      },
+      {
+        "order": 2,
+        "description": "Property Reference Number: 2792740",
+        "htmlDescription": "Property Reference Number: 2792740"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173139596#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b55d671d8/173139596/b55d671d8ca4d55dce98991fd0554d13_max_476x317.jpeg",
+    "added_date": "2026-03-11T10:12:29Z"
+  },
+  {
+    "id": "rm_173303738",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Kilwinning",
+    "latitude": 55.652115,
+    "longitude": -4.715121,
+    "address": "Stevenston Rd, Kilwinning, KA13",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 875,
+    "summary": "Provided fully furnished for contract let. Including kitchen appliances crockery etc. One double and one single bedroom. Great access for train station. Parking in communal car park,rear garden sp... ** Property Reference: 2762637 **",
+    "estate_agent": "London",
+    "features": [
+      {
+        "order": 1,
+        "description": "No Agent Fees",
+        "htmlDescription": "No Agent Fees"
+      },
+      {
+        "order": 2,
+        "description": "Property Reference Number: 2762637",
+        "htmlDescription": "Property Reference Number: 2762637"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173303738#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4a5f66fe6/173303738/4a5f66fe6275542f7e4deb376d24f16b_max_476x317.jpeg",
+    "added_date": "2026-03-14T17:05:41Z"
+  },
+  {
+    "id": "rm_160212905",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Kilwinning",
+    "latitude": 55.6505,
+    "longitude": -4.69677,
+    "address": "Hawthorn Court, Kilwinning, Ayrshire, KA13",
+    "property_type": "Terraced",
+    "bedrooms": 2,
+    "bathrooms": null,
+    "price": 850,
+    "summary": "24 Hawthorn Court is a modern 2 bed mid terraced property situated in the quiet and highly sought after location of Kilwinning.",
+    "estate_agent": "Saltcoats",
+    "features": [
+      {
+        "order": 1,
+        "description": "Highly",
+        "htmlDescription": "Highly "
+      },
+      {
+        "order": 2,
+        "description": "Gas Central Heating",
+        "htmlDescription": "Gas Central Heating"
+      },
+      {
+        "order": 3,
+        "description": "Double Glazing",
+        "htmlDescription": "Double Glazing"
+      },
+      {
+        "order": 4,
+        "description": "Driveway To Rear",
+        "htmlDescription": "Driveway To Rear"
+      },
+      {
+        "order": 5,
+        "description": "Private & Fully Enclosed Rear Garden",
+        "htmlDescription": "Private & Fully Enclosed Rear Garden"
+      },
+      {
+        "order": 6,
+        "description": "Ample Storage Throughout",
+        "htmlDescription": "Ample Storage Throughout"
+      },
+      {
+        "order": 7,
+        "description": "Walk In Wardrobe",
+        "htmlDescription": "Walk In Wardrobe"
+      },
+      {
+        "order": 8,
+        "description": "2 Spacious Double Bedrooms",
+        "htmlDescription": "2 Spacious Double Bedrooms"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/160212905#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a07af103d/160212905/a07af103de4c4f7340c0d0faec3ab854_max_476x317.jpeg",
+    "added_date": "2025-04-03T15:41:26Z"
+  },
+  {
+    "id": "rm_172761305",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Kilwinning",
+    "latitude": 55.65395,
+    "longitude": -4.69967,
+    "address": "Main Street, Kilwinning, Ayrshire, KA13",
+    "property_type": "Flat",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "price": 450,
+    "summary": "A seldom available, well presented 3 bedroom second floor flat located within Kilwinning Town Centre. Internally there is an entrance hallway, lounge which is open plan to a fitted kitchen, three bedrooms and family bathroom. ",
+    "estate_agent": "Prestwick",
+    "features": [
+      {
+        "order": 1,
+        "description": "Second Floor Flat",
+        "htmlDescription": "Second Floor Flat"
+      },
+      {
+        "order": 2,
+        "description": "3 Bedrooms",
+        "htmlDescription": "3 Bedrooms"
+      },
+      {
+        "order": 3,
+        "description": "Central Location",
+        "htmlDescription": "Central Location"
+      },
+      {
+        "order": 4,
+        "description": "Electric Heating",
+        "htmlDescription": "Electric Heating"
+      },
+      {
+        "order": 5,
+        "description": "Partial Double Glazing",
+        "htmlDescription": "Partial Double Glazing"
+      },
+      {
+        "order": 6,
+        "description": "EPC E",
+        "htmlDescription": "EPC E"
+      },
+      {
+        "order": 7,
+        "description": "Council tax band A",
+        "htmlDescription": "Council tax band A"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/172761305#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ed1f9382c/172761305/ed1f9382c17a402380b7a82d86cc2f7c_max_476x317.jpeg",
+    "added_date": "2026-03-02T13:37:21Z"
+  },
+  {
+    "id": "rm_173352443",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ardrossan",
+    "latitude": 55.64384,
+    "longitude": -4.81313,
+    "address": "St. Johns Place, Ardrossan, Ayrshire, KA22",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 760,
+    "summary": "TOTALLY RENOVATED OWN DOOR FIRST FLOOR TWO BEDROOM FLAT *** PERFECTION",
+    "estate_agent": "Ayrshire",
+    "features": [
+      {
+        "order": 1,
+        "description": "TOTALLY REFURBISHED",
+        "htmlDescription": "TOTALLY REFURBISHED"
+      },
+      {
+        "order": 2,
+        "description": "MUST BE VIEWED",
+        "htmlDescription": "MUST BE VIEWED"
+      },
+      {
+        "order": 3,
+        "description": "CLOSE TO TRANSPORT LINKS",
+        "htmlDescription": "CLOSE TO TRANSPORT LINKS"
+      },
+      {
+        "order": 4,
+        "description": "AVAILABLE FOR VIEWINGS",
+        "htmlDescription": "AVAILABLE FOR VIEWINGS"
+      },
+      {
+        "order": 5,
+        "description": "GREAT LOCATION",
+        "htmlDescription": "GREAT LOCATION"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173352443#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/324e30f10/173352443/324e30f10991372a8be3a0d5d30226dd_max_476x317.jpeg",
+    "added_date": "2026-03-17T11:41:24Z"
+  },
+  {
+    "id": "rm_171351236",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ardrossan",
+    "latitude": 55.64404,
+    "longitude": -4.81089,
+    "address": "Hill Place, Ardrossan, Ayrshire, KA22",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": null,
+    "price": 600,
+    "summary": "3 Hill Place is a modern two bedroom ground floor property situated in the heart of Ardrossan. ",
+    "estate_agent": "Saltcoats",
+    "features": [
+      {
+        "order": 1,
+        "description": "Modern Ground Floor Flat",
+        "htmlDescription": "Modern Ground Floor Flat "
+      },
+      {
+        "order": 2,
+        "description": "Central Location",
+        "htmlDescription": "Central Location "
+      },
+      {
+        "order": 3,
+        "description": "Spacious Lounge",
+        "htmlDescription": "Spacious Lounge "
+      },
+      {
+        "order": 4,
+        "description": "Newly Fitted Kitchen",
+        "htmlDescription": "Newly Fitted Kitchen "
+      },
+      {
+        "order": 5,
+        "description": "3 Piece Bathroom Suite",
+        "htmlDescription": "3 Piece Bathroom Suite "
+      },
+      {
+        "order": 6,
+        "description": "2 Double Bedrooms",
+        "htmlDescription": "2 Double Bedrooms "
+      },
+      {
+        "order": 7,
+        "description": "Shared Rear Garden",
+        "htmlDescription": "Shared Rear Garden "
+      },
+      {
+        "order": 8,
+        "description": "Close to Local Amenities",
+        "htmlDescription": "Close to Local Amenities "
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/171351236#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7dda797a8/171351236/7dda797a8c2b2a4af179fe734cca9043_max_476x317.jpeg",
+    "added_date": "2026-01-23T12:01:11Z"
+  },
+  {
+    "id": "rm_87654369",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ardrossan",
+    "latitude": 55.64425,
+    "longitude": -4.8089,
+    "address": "Winton Street, Ardrossan, KA22",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 0,
+    "price": 650,
+    "summary": "Newly refurbished two-bedroom flat in Ardrossan offering gas central heating, double glazing, private and shared garden space. Close to sea front, transport links, local shops, schools, and restaurants. Available 16 March 2026.",
+    "estate_agent": "Greenock",
+    "features": [
+      {
+        "order": 1,
+        "description": "Double Glazing",
+        "htmlDescription": "Double Glazing"
+      },
+      {
+        "order": 2,
+        "description": "Near sea front",
+        "htmlDescription": "Near sea front"
+      },
+      {
+        "order": 3,
+        "description": "Close to Restaurants and Nightlife",
+        "htmlDescription": "Close to Restaurants and Nightlife"
+      },
+      {
+        "order": 4,
+        "description": "Close to transport links including ferry to Arran",
+        "htmlDescription": "Close to transport links including ferry to Arran"
+      },
+      {
+        "order": 5,
+        "description": "Newly refurbished",
+        "htmlDescription": "Newly refurbished"
+      },
+      {
+        "order": 6,
+        "description": "Near local school",
+        "htmlDescription": "Near local school"
+      },
+      {
+        "order": 7,
+        "description": "Council tax A",
+        "htmlDescription": "Council tax A"
+      },
+      {
+        "order": 8,
+        "description": "Close to local shops",
+        "htmlDescription": "Close to local shops"
+      },
+      {
+        "order": 9,
+        "description": "Shared garden",
+        "htmlDescription": "Shared garden"
+      },
+      {
+        "order": 10,
+        "description": "On street parking",
+        "htmlDescription": "On street parking"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/87654369#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/24a9c3833/87654369/24a9c38330cb60b50b71ef987c3a2106_max_476x317.jpeg",
+    "added_date": "2026-02-25T10:43:33Z"
+  },
+  {
+    "id": "rm_172307444",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Ardrossan",
+    "latitude": 55.65591,
+    "longitude": -4.80414,
+    "address": "Lawson Drive, Ardrossan, Ayrshire, KA22",
+    "property_type": "End of Terrace",
+    "bedrooms": 2,
+    "bathrooms": null,
+    "price": 700,
+    "summary": "Glow Homes are delighted to bring to the rental market this 2 bed modern end terraced family home situated in a popular location of Ardrossan",
+    "estate_agent": "Saltcoats",
+    "features": [
+      {
+        "order": 1,
+        "description": "2 Bed Family Home",
+        "htmlDescription": "2 Bed Family Home"
+      },
+      {
+        "order": 2,
+        "description": "Modern Fitted Kitchen",
+        "htmlDescription": "Modern Fitted Kitchen"
+      },
+      {
+        "order": 3,
+        "description": "Modern Fitted Bathroom",
+        "htmlDescription": "Modern Fitted Bathroom"
+      },
+      {
+        "order": 4,
+        "description": "Gas Central Heating",
+        "htmlDescription": "Gas Central Heating"
+      },
+      {
+        "order": 5,
+        "description": "Double Glazing",
+        "htmlDescription": "Double Glazing"
+      },
+      {
+        "order": 6,
+        "description": "On Street Parking",
+        "htmlDescription": "On Street Parking"
+      },
+      {
+        "order": 7,
+        "description": "Popular Location",
+        "htmlDescription": "Popular Location"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/172307444#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c977d36f5/172307444/c977d36f5df7d3baff096454e352153a_max_476x317.jpeg",
+    "added_date": "2026-02-17T14:48:44Z"
+  },
+  {
+    "id": "rm_173415884",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Saltcoats",
+    "latitude": 55.63692,
+    "longitude": -4.784551,
+    "address": "Wellpark Road, Saltcoats, KA21",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 695,
+    "summary": "We are proud to present this well-presented two-bedroom upper floor flat in the popular coastal town of Saltcoats. Ideally located just a short walk from the beach and the town centre, this prope... ** Property Reference: 2823101 **",
+    "estate_agent": "London",
+    "features": [
+      {
+        "order": 1,
+        "description": "No Agent Fees",
+        "htmlDescription": "No Agent Fees"
+      },
+      {
+        "order": 2,
+        "description": "Students Can Enquire",
+        "htmlDescription": "Students Can Enquire"
+      },
+      {
+        "order": 3,
+        "description": "Property Reference Number: 2823101",
+        "htmlDescription": "Property Reference Number: 2823101"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173415884#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b1006e7f3/173415884/b1006e7f3ccd96418473dd67368d6228_max_476x317.jpeg",
+    "added_date": "2026-03-18T10:11:51Z"
+  },
+  {
+    "id": "rm_173097116",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Saltcoats",
+    "latitude": 55.63482,
+    "longitude": -4.77498,
+    "address": "Robertson Crescent, Saltcoats, North Ayrshire, KA21",
+    "property_type": "Bungalow",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 675,
+    "summary": "This well-presented 2-bedroom terraced bungalow in Saltcoats offers comfortable and practical living accommodation. The lounge provides a welcoming space that leads directly into the kitchen, creating a convenient and functional layout. The property comprises two good-sized bedrooms and a family ...",
+    "estate_agent": "Prestwick",
+    "features": [],
+    "url": "https://www.rightmove.co.uk/properties/173097116#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ad235cfd5/173097116/ad235cfd5d146cbe7046113963bcf0c6_max_476x317.jpeg",
+    "added_date": "2026-03-10T12:04:36Z"
+  },
+  {
+    "id": "rm_73487648",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Saltcoats",
+    "latitude": 55.63519,
+    "longitude": -4.78613,
+    "address": "Springvale Court, Saltcoats, Ayrshire, KA21",
+    "property_type": "Ground Flat",
+    "bedrooms": 2,
+    "bathrooms": null,
+    "price": 500,
+    "summary": "MODERN 2 BEDROOM GROUND FLOOR FLAT IN EXCELLENT ORDER",
+    "estate_agent": "Ayrshire",
+    "features": [],
+    "url": "https://www.rightmove.co.uk/properties/73487648#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c565fb1d3/73487648/c565fb1d305ec11ee0da69b3d94790fe_max_476x317.JPG",
+    "added_date": "2018-05-29T15:12:46Z"
+  },
+  {
+    "id": "rm_173419619",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Largs",
+    "latitude": 55.79447,
+    "longitude": -4.86484,
+    "address": "Gateside Street, Largs, North Ayrshire, KA30",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 0,
+    "price": 575,
+    "summary": "Two bedroom, ground floor property available now!",
+    "estate_agent": "Glasgow",
+    "features": [
+      {
+        "order": 1,
+        "description": "Bath with Overhead Shower",
+        "htmlDescription": "Bath with Overhead Shower"
+      },
+      {
+        "order": 2,
+        "description": "Double glazing",
+        "htmlDescription": "Double glazing"
+      },
+      {
+        "order": 3,
+        "description": "Washing machine",
+        "htmlDescription": "Washing machine"
+      },
+      {
+        "order": 4,
+        "description": "Fridge Freezer",
+        "htmlDescription": "Fridge Freezer"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173419619#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b2c7e7ac9/173419619/b2c7e7ac913bff5ff4d495dd29d5feb0_max_476x317.jpeg",
+    "added_date": "2026-03-18T11:04:49Z"
+  },
+  {
+    "id": "rm_173336417",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Largs",
+    "latitude": 55.7976,
+    "longitude": -4.86523,
+    "address": "Seamore Street, Largs, North Ayrshire, KA30",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 550,
+    "summary": "two bedrooms,\navailable immediately part furnished with appliances,\nvery spacious,\nrear shared garden,\non street parking,\ngas central heating and double glazing,",
+    "estate_agent": "Covering Scotland",
+    "features": [
+      {
+        "order": 1,
+        "description": "Double glazing",
+        "htmlDescription": "Double glazing"
+      },
+      {
+        "order": 2,
+        "description": "Washing machine",
+        "htmlDescription": "Washing machine"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173336417#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c9cd65b5/173336417/7c9cd65b59f8f67bfd01a7e4009a4fe2_max_476x317.jpeg",
+    "added_date": "2026-03-16T13:42:09Z"
+  },
+  {
+    "id": "rm_173321666",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Largs",
+    "latitude": 55.79976,
+    "longitude": -4.84975,
+    "address": "Braeside Avenue, Largs, North Ayrshire, KA30",
+    "property_type": "Flat",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "price": 600,
+    "summary": "HarveyLets are pleased to present this delightful 2 bedroom furnished upper cottage in the picturesque coastal town of Largs. This charming property offers a perfect blend of comfort and convenience, making it an ideal choice for small families, couples, or professionals seeking a tranquil yet ac...",
+    "estate_agent": "Glasgow",
+    "features": [
+      {
+        "order": 1,
+        "description": "Shower",
+        "htmlDescription": "Shower"
+      },
+      {
+        "order": 2,
+        "description": "Washing machine",
+        "htmlDescription": "Washing machine"
+      },
+      {
+        "order": 3,
+        "description": "Fridge Freezer",
+        "htmlDescription": "Fridge Freezer"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173321666#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6f4d5b4a5/173321666/6f4d5b4a5797386c042f1873a43a4087_max_476x317.jpeg",
+    "added_date": "2026-03-16T10:29:45Z"
+  },
+  {
+    "id": "rm_173318624",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Largs",
+    "latitude": 55.79498,
+    "longitude": -4.86966,
+    "address": "Gallowgate Street, Largs",
+    "property_type": "Flat",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 475,
+    "summary": "Enjoy stunning coastal living with this charming one-bedroom, partially furnished flat perfectly positioned on Largs seafront. Currently undergoing some light refurbishment. Available now!",
+    "estate_agent": "Greenock",
+    "features": [
+      {
+        "order": 1,
+        "description": "Available Now",
+        "htmlDescription": "Available Now"
+      },
+      {
+        "order": 2,
+        "description": "Beach Front Furnished Flat",
+        "htmlDescription": "Beach Front Furnished Flat"
+      },
+      {
+        "order": 3,
+        "description": "Bright Lounge and river views",
+        "htmlDescription": "Bright Lounge and river views"
+      },
+      {
+        "order": 4,
+        "description": "Electric Heating",
+        "htmlDescription": "Electric Heating"
+      },
+      {
+        "order": 5,
+        "description": "Double Bedroom with Firth of Clyde Views",
+        "htmlDescription": "Double Bedroom with Firth of Clyde Views"
+      },
+      {
+        "order": 6,
+        "description": "Electric Shower Over Bath",
+        "htmlDescription": "Electric Shower Over Bath"
+      },
+      {
+        "order": 7,
+        "description": "Double Glazing",
+        "htmlDescription": "Double Glazing"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173318624#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e77286687/173318624/e77286687770ca1c26a0523720761c93_max_476x317.jpeg",
+    "added_date": "2026-03-16T09:50:01Z"
+  },
+  {
+    "id": "rm_173382803",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Largs",
+    "latitude": 55.79464,
+    "longitude": -4.86916,
+    "address": "Manse Court, Largs, North Ayrshire, KA30",
+    "property_type": "Flat",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 475,
+    "summary": "Second floor one bedroom property located in Largs. The property offers a great location, within walking distance to all local amenities.",
+    "estate_agent": "Glasgow",
+    "features": [
+      {
+        "order": 1,
+        "description": "Double glazing",
+        "htmlDescription": "Double glazing"
+      },
+      {
+        "order": 2,
+        "description": "Shower",
+        "htmlDescription": "Shower"
+      },
+      {
+        "order": 3,
+        "description": "Washing machine",
+        "htmlDescription": "Washing machine"
+      },
+      {
+        "order": 4,
+        "description": "Fridge Freezer",
+        "htmlDescription": "Fridge Freezer"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/173382803#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/613d40556/173382803/613d40556b7c39f9dd367e316a2cb209_max_476x317.jpeg",
+    "added_date": "2026-03-17T12:03:05Z"
+  },
+  {
+    "id": "rm_130153748",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Largs",
+    "latitude": 55.79704,
+    "longitude": -4.86646,
+    "address": "Brisbane Road, Largs, Ayrshire, KA30",
+    "property_type": "Flat",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 500,
+    "summary": "PARTLY FURNISHED ONE BEDROOM FIRST FLOOR FLAT",
+    "estate_agent": "Ayrshire",
+    "features": [
+      {
+        "order": 1,
+        "description": "GAS CENTRAL HEATING",
+        "htmlDescription": "GAS CENTRAL HEATING"
+      },
+      {
+        "order": 2,
+        "description": "PARTLY FURNISHED",
+        "htmlDescription": "PARTLY FURNISHED"
+      },
+      {
+        "order": 3,
+        "description": "LOCAL AMENITIES",
+        "htmlDescription": "LOCAL AMENITIES "
+      },
+      {
+        "order": 4,
+        "description": "MOVE-IN CONDITION",
+        "htmlDescription": "MOVE-IN CONDITION"
+      },
+      {
+        "order": 5,
+        "description": "DOUBLE GLAZING",
+        "htmlDescription": "DOUBLE GLAZING"
+      }
+    ],
+    "url": "https://www.rightmove.co.uk/properties/130153748#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a285916c7/130153748/a285916c7092d1df9a3178acdb45a534_max_476x317.jpeg",
+    "added_date": "2022-12-21T16:56:56Z"
+  },
+  {
+    "id": "rm_150422681",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Largs",
+    "latitude": 55.79724,
+    "longitude": -4.86536,
+    "address": "Seamore Street, Largs, Ayrshire, KA30",
+    "property_type": "Flat",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 475,
+    "summary": "ONE BEDROOM FIRST FLOOR FLAT CLOSE TO BEACH AND SHOPS",
+    "estate_agent": "Ayrshire",
+    "features": [],
+    "url": "https://www.rightmove.co.uk/properties/150422681#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b53b6f043/150422681/b53b6f04394966b080ed2e4d4703670a_max_476x317.jpeg",
+    "added_date": "2024-07-19T10:22:10Z"
+  },
+  {
+    "id": "rm_79657139",
+    "source": "rightmove",
+    "category": "rentals",
+    "town": "Largs",
+    "latitude": 55.7947,
+    "longitude": -4.86278,
+    "address": "Gateside Street, Largs, Ayrshire, KA30",
+    "property_type": "Flat",
+    "bedrooms": 1,
+    "bathrooms": null,
+    "price": 500,
+    "summary": "LOVELY ONE BEDROOM FIRST FLOOR FLAT",
+    "estate_agent": "Ayrshire",
+    "features": [],
+    "url": "https://www.rightmove.co.uk/properties/79657139#/?channel=RES_LET",
+    "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/00120f06e/79657139/00120f06ea3d111e4ca373922b664cdd_max_476x317.JPG",
+    "added_date": "2019-02-25T19:10:45Z"
+  }
+]
